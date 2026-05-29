@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: zhangyi233HIAS.github.io/PPT-show
+  baseUrl: baseUrl: "mypptshow2.pages.dev"  
   ignorePatterns:
     - private
     - templates

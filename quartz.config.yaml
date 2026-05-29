@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: baseUrl: "mypptshow2.pages.dev"  
+  baseUrl: mypptshow2.buithanhlan498.workers.dev
   ignorePatterns:
     - private
     - templates

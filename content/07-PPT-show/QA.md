@@ -23,4 +23,4 @@ https://www.ncbi.nlm.nih.gov/nuccore/NC_016810.1?report=graph
 - [ ] 我的序列基因名称
 - [ ] 我的假基因---有的-红色 
 - [ ] SL1
-- [ ] 
+- [ ] 老师您也可以随时看到我的整理 https://mypptshow2.buithanhlan498.workers.dev/在这个云端路径下。

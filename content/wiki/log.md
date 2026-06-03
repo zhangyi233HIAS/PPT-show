@@ -86,3 +86,22 @@
 - 创建: 11-need-class-ing/ (待分类区/安全回收站)
 - SCHEMA.md 更新: 安全文件处理规则 - 永不删除有内容的 .md
 - 11-need-class-ing/README.md: 规则说明文档
+
+## [2026-06-02] ingest | Mårli 2025 - S. aureus 牛奶适应性
+- 来源: https://doi.org/10.1371/journal.ppat.1013080
+- 标题: Genome-wide analysis of fitness determinants of S. aureus during growth in milk
+- 期刊: PLOS Pathogens (2025)
+- 创建页面: wiki/raw/papers/Marli2025-Staph-aureus-milk-fitness-CRISPRi.md
+- 关键发现:
+  - 282 个牛奶必需基因, 79 个牛奶特异适应性基因
+  - IPTG-CRISPRi 在牛奶中因乳糖泄漏 → 改用 Ptet 系统
+  - 嘌呤合成/叶酸循环是牛奶中关键代谢瓶颈
+  - TMP-SMX 在牛奶中增敏（治疗意义）
+  - 磷壁酸合成在牛奶中重要性降低
+- 原因: llm-for-zotero Agent Mode 首次写入失败, 手动创建
+
+## [2026-06-02] update | 笔记模板与提示词库
+- 创建: wiki/raw/papers/NOTE-TEMPLATE.md (笔记结构模板)
+- 创建: wiki/raw/papers/PROMPTS-LIBRARY.md (提示词库)
+- 修复: Yuan2025 Zotero 链接格式 (q=搜索→items/0/KEY)
+- 待办: 用户需在 Zotero 中获取正确的 item key 替换链接

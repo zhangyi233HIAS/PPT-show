@@ -26,6 +26,12 @@
 ### 遗传学 (Genetics)
 - [[concepts/concepts-Genetics/Population Bottleneck]] - 群体瓶颈效应
 
+## Papers
+
+- [[raw/papers/Chen2025-Salmonella-aggresome-ROS-persistence]] - 巨噬细胞 ROS 驱动沙门氏菌聚集体形成与持留 (iMeta, 2025)
+- [[raw/papers/Yuan2025-Zoonotic-Streptococcus-glucose-PTSman-meningitis]] - 人兽共患链球菌 PTSman 葡萄糖摄取与脑膜炎 (Nature Microbiology, 2025)
+- [[raw/papers/Marli2025-Staph-aureus-milk-fitness-CRISPRi]] - 金黄色葡萄球菌牛奶适应性全基因组 CRISPRi 筛选 (PLOS Pathogens, 2025)
+
 ## Comparisons
 
 - [[comparisons/spi1-vs-spi2]] - SPI-1 和 SPI-2 毒力岛的功能比较

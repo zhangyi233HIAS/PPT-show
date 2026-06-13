@@ -12,10 +12,23 @@ configuration:
     - private
     - templates
     - .obsidian
-    - wiki/raw
+    - wiki/raw/papers-pdf-raw
+    - wiki/concepts
+    - wiki/dashboards
+    - wiki/logs
+    - wiki/methods
+    - wiki/portocals
+    - wiki/queries
+    - wiki/indexes
     - memory
+    - 01-outline
     - 02-my-daily-notes
     - 03-my-information
+    - 04-projects
+    - 05-my-lab
+    - 06-my-plan
+    - 09-improve-AI-other
+    - 11-need-class-ing
     - log.md
     - SCHEMA.md
     - INSTALLATION.md

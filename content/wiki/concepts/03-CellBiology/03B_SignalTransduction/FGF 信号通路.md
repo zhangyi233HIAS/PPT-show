@@ -1,0 +1,63 @@
+---
+aliases:
+  - FGF/FGFR signaling pathway
+  - FGF/FGFR 信号通路
+---
+
+- **配体** 小鼠与人类 22, 典型18
+	- 5个旁分泌亚家族 
+		- FGF1亚家族
+			- FGF1
+			- FGF2
+		- FGF4亚家族
+			- FGF4
+			- FGF5
+			- FGF6
+		- FGF7亚家族
+			- FGF3
+			- FGF7
+			- FGF10
+			- FGF22
+		- FGF8亚家族
+			- FGF8
+			- FGF17
+			- FGF18
+		- FGF9亚家族
+			- FGF9
+			- FGF16
+			- FGF20
+	- 1个内分泌亚家族
+		- FGF19亚家族
+			- FGF19
+			- FGF21
+			- FGF23
+- **受体** 高亲和力[[酪氨酸激酶受体]] #单次跨膜受体
+	- **分类** 
+		- FGFR1
+		- FGFR2
+		- FGFR3
+		- FGFR4
+		- FGFRL1 无胞内结构域的截短FGFR
+	- **构成** 
+		- 胞外结构域
+		- 跨膜结构域
+		- 胞内酪氨酸激酶结构域
+	- **激活** 配体-受体结合触发受体构象变化, 磷酸化受体胞内结构域酪氨酸残基, 导致胞内结构域的酪氨酸激酶二聚化和活化, 磷酸化的酪氨酸残基作为下游信号分子结合位点
+- **共受体** 配体的共受体
+	- HSPGs
+	- Klotho (FGF19)
+- **下游**
+	- PLCγ
+	- Ras/Raf-MEK-MAPKs
+	- phosphatidylinositol-3 kinase/protein kinase B (PI3K/AKT)
+	- signal transducer and activator of transcription (STAT)
+- **调节** 
+	- 配体-受体结合特异性
+	- 表观遗传
+	- 可变剪接
+	- 翻译后修饰
+	- 细胞运输
+	- 与其他信号级联的互作
+	- 调节因子 
+		- 细胞黏附分子
+		- G蛋白偶联受体

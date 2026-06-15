@@ -5,6 +5,8 @@ public/
 
 # 私密目录
 memory/
+.flownote/
+.opencode/
 content/02-my-daily-notes/
 content/03-my-information/
 content/05-my-lab/

@@ -12,9 +12,8 @@ content/06-my-plan/
 content/09-improve-AI-other/
 content/11-need-class-ing/
 
-# 大文件目录
+# wiki 目录（暂时排除，等构建稳定后再逐步加回）
 content/wiki/
-memory/
 
 # 系统文件
 .obsidian/
@@ -29,10 +28,6 @@ __pycache__/
 *.xlsx
 *.xls
 *.pptx
-*.png
-*.jpg
-*.jpeg
-*.gif
 
 # 临时文件
 *.tmp

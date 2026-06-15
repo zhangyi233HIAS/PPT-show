@@ -15,6 +15,9 @@
     - [[zotero-obsidian-agent-llmwiki-MinerU]]
   - **098-logi**
     - [[0981-逻辑性]]
+  - **099-win**
+    - [[099-win1 浏览器]]
+    - [[099-win2-winfolder]]
   - [[09-improve-AI-other]]
 
 %% End Waypoint %%

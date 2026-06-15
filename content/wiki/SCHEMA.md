@@ -121,17 +121,17 @@ contradictions: [other-page-slug]
 
 新概念页面必须放入对应的学科子目录，不得放在 `concepts/` 根目录：
 
-| 标签 | 目录 |
-|------|------|
-| immunology, innate-immunity, adaptive-immunity, complement | `concepts-Immunology/` |
-| microbiology, pathogenesis, virulence, antibiotic-resistance, host-pathogen | `concepts-Microbio/` |
-| transcriptomics, bioinfo, genomics, proteomics, metagenomics, sequence-analysis, assembly, annotation | `concepts-Bioinformatics/` |
-| biostats, experimental-design, hypothesis-testing, regression, survival-analysis, bayesian, machine-learning | `concepts-Biostatistics/` |
-| cell-culture, cell-signaling, cell-death, autophagy | `concepts-Cell/` |
-| genetics, mutation, epigenetics, population-genetics, linkage | `concepts-Genetics/` |
-| molecular-bio, pcr, cloning, crispr, gene-expression | `concepts-Molecular/` |
-| biochemistry, enzyme-kinetics, metabolism, protein-structure | `concepts-Biochemistry/` |
-| ai, llm, deep-learning, nlp, computer-vision | `concepts-AI/` |
+| 标签                                                                                                           | 目录                         |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| immunology, innate-immunity, adaptive-immunity, complement                                                   | `concepts-Immunology/`     |
+| microbiology, pathogenesis, virulence, antibiotic-resistance, host-pathogen                                  | `concepts-Microbio/`       |
+| transcriptomics, bioinfo, genomics, proteomics, metagenomics, sequence-analysis, assembly, annotation        | `concepts-Bioinformatics/` |
+| biostats, experimental-design, hypothesis-testing, regression, survival-analysis, bayesian, machine-learning | `concepts-Biostatistics/`  |
+| cell-culture, cell-signaling, cell-death, autophagy                                                          | `concepts-Cell/`           |
+| genetics, mutation, epigenetics, population-genetics, linkage                                                | `concepts-Genetics/`       |
+| molecular-bio, pcr, cloning, crispr, gene-expression                                                         | `concepts-Molecular/`      |
+| biochemistry, enzyme-kinetics, metabolism, protein-structure                                                 | `concepts-Biochemistry/`   |
+| ai, llm, deep-learning, nlp, computer-vision                                                                 | `concepts-AI/`             |
 
 **路由流程:**
 1. 确定概念的主要学科归属

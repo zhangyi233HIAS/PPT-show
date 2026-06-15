@@ -13,8 +13,8 @@ content/09-improve-AI-other/
 content/11-need-class-ing/
 
 # 大文件目录
-content/wiki/concepts/00-raw-book/
-content/wiki/raw/
+content/wiki/
+memory/
 
 # 系统文件
 .obsidian/

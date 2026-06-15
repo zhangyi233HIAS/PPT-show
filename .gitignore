@@ -1,0 +1,40 @@
+# Quartz 构建产物
+public/
+.quartz-cache/
+.quartz/
+
+# 私密目录
+memory/
+content/02-my-daily-notes/
+content/03-my-information/
+content/05-my-lab/
+content/06-my-plan/
+content/09-improve-AI-other/
+content/11-need-class-ing/
+
+# 大文件目录
+content/wiki/concepts/00-raw-book/
+content/wiki/raw/
+
+# 系统文件
+.obsidian/
+.trash/
+.git/
+__pycache__/
+
+# 大型数据文件
+*.pdf
+*.zip
+*.docx
+*.xlsx
+*.xls
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# 临时文件
+*.tmp
+*.bak
+*.swp

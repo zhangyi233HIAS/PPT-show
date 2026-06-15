@@ -13,6 +13,7 @@ configuration:
     - templates
     - .obsidian
     - wiki/raw
+    - wiki/concepts/00-raw-book
     - wiki/dashboards
     - wiki/logs
     - wiki/methods

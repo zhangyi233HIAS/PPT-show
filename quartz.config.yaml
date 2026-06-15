@@ -13,7 +13,7 @@ configuration:
     - templates
     - .obsidian
     - wiki/raw
-    - wiki/concepts/00-raw-book
+    - wiki/concepts
     - wiki/dashboards
     - wiki/logs
     - wiki/methods
@@ -24,6 +24,7 @@ configuration:
     - 01-outline
     - 02-my-daily-notes
     - 03-my-information
+    - 04-projects
     - 05-my-lab
     - 06-my-plan
     - 09-improve-AI-other

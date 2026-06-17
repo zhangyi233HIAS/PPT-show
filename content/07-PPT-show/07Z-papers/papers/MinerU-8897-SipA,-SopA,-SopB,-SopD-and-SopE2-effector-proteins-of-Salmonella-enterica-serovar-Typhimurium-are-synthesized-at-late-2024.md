@@ -3,7 +3,7 @@ title: "SipA, SopA, SopB, SopD and SopE2 effector proteins of Salmonella enteric
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/SDRWJWLZ"
   zotero_pdf: "zotero://open-pdf/library/items/34JS3392"

@@ -35,6 +35,11 @@ configuration:
     - SCHEMA.md
     - INSTALLATION.md
     - GIT-BACKUP-GUIDE.md
+    - 07-PPT-show/07Z-papers/papers/_backup_chinese_dupes
+    - 07-PPT-show/07Z-papers/papers/_backup_duplicates
+    - 07-PPT-show/07Z-papers/papers/_backup_extra_dupes
+    - 07-PPT-show/07Z-papers/papers/_backup_final_dedup
+    - 07-PPT-show/07Z-papers/papers/_backup_20260609_dedup
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

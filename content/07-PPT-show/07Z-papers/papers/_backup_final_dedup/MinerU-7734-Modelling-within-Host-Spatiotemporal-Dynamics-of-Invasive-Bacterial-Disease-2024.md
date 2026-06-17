@@ -3,7 +3,7 @@ title: "建模入侵细菌疾病的主机时空动力学"
 doi: "10.1371/journal.pbio.0060074"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MIDPJWTV"
   zotero_pdf: "zotero://open-pdf/library/items/SJGSDU4X"

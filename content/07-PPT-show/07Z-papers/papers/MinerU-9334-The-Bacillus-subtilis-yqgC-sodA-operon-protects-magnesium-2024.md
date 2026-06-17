@@ -3,7 +3,7 @@ title: "The Bacillus subtilis yqgC-sodA operon protects magnesium-"
 doi: "10.1101/2024.02.14.580342"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MJU9PSIK"
   zotero_pdf: "zotero://open-pdf/library/items/SSUZFQFU"

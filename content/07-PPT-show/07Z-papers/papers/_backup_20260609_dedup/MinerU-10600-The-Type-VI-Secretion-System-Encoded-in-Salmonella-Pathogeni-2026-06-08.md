@@ -3,7 +3,7 @@ title: "The Type VI Secretion System Encoded in Salmonella Pathogenicity Island 
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/T7NAQCBM"
   zotero_pdf: "zotero://open-pdf/library/items/BJ43SL2R"

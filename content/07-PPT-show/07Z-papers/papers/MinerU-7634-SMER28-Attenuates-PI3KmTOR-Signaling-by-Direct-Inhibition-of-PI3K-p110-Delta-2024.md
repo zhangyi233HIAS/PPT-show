@@ -3,7 +3,7 @@ title: "SMER28 Attenuates PI3K/mTOR Signaling by Direct Inhibition of PI3K p110 
 doi: "10.3390/cells11101648"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/HPA3NDMI"
   zotero_pdf: "zotero://open-pdf/library/items/ZUD5H59X"

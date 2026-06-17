@@ -3,7 +3,7 @@ title: "Transcriptome Sequencing Reveals Salmonella Flagellin Activation of Inte
 doi: "10.3390/cimb45040183"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/KXR3F37Y"
   zotero_pdf: "zotero://open-pdf/library/items/AW2SHB5H"

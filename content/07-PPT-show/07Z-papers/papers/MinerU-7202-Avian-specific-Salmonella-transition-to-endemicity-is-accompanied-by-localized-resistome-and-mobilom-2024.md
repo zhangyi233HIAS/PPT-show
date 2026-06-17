@@ -3,7 +3,7 @@ title: "Avian-specific Salmonella transition to endemicity is accompanied by loc
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/PF2KADXP"
   zotero_pdf: "zotero://open-pdf/library/items/LJAJHQ5K"

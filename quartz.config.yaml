@@ -9,6 +9,7 @@ configuration:
   locale: en-US
   baseUrl: mypptshow2.buithanhlan498.workers.dev
   ignorePatterns:
+    - "**/MinerU-9197-*"
     - private
     - templates
     - .obsidian

@@ -3,7 +3,7 @@ title: "氧化还原活性代谢物通过生物能量抑制促进铜绿假单胞
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/Q5AQFKM6"
   zotero_pdf: "zotero://open-pdf/library/items/LEN9SB6Z"

@@ -3,7 +3,7 @@ title: "An Unexpected Role for the Periplasmic Phosphatase PhoN in the Salvage o
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/I5DLLUD3"
   zotero_pdf: "zotero://open-pdf/library/items/TTKYEGHP"

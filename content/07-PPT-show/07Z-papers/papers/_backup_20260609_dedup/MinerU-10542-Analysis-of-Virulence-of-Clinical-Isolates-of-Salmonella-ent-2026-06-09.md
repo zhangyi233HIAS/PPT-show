@@ -3,7 +3,7 @@ title: "Analysis of Virulence of Clinical Isolates of Salmonella enteritidis In 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/8CGFML4M"
   zotero_pdf: "zotero://open-pdf/library/items/EDLB885J"

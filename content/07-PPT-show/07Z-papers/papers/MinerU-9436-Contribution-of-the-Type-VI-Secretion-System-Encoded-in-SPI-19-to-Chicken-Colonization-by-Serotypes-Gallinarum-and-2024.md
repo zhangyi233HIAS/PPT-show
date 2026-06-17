@@ -3,7 +3,7 @@ title: "Contribution of the Type VI Secretion System Encoded in SPI-19 to Chicke
 doi: "10.1371/journal.pone.0011724"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/XBKEH9BI"
   zotero_pdf: "zotero://open-pdf/library/items/R6FA7BA7"

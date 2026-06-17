@@ -1,5 +1,5 @@
 ---
-title: "Identification of PGN\_1123 as the Gene Encoding Lipid A Deacylase, an Enzyme Required for Toll-Like"
+title: "Identification of PGN\\_1123 as the Gene Encoding Lipid A Deacylase, an Enzyme Required for Toll-Like"
 doi: "10.1128/JB"
 type: literature-note
 created: 2026-06-10

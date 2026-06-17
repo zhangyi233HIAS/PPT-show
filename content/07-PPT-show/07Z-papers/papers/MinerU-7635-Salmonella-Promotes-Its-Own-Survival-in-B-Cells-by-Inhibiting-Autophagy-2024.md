@@ -3,7 +3,7 @@ title: "Salmonella Promotes Its Own Survival in B Cells by Inhibiting Autophagy"
 doi: "10.3390/cells11132061"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/N64HAMAJ"
   zotero_pdf: "zotero://open-pdf/library/items/IVAXMC78"

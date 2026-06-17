@@ -3,7 +3,7 @@ title: "A host-directed adjuvant sensitizes intracellular bacterial persisters t
 doi: "10.1038/s41564-025-02124-2"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/XZZYXDKB"
   zotero_pdf: "zotero://open-pdf/library/items/Z6BCJUY9"

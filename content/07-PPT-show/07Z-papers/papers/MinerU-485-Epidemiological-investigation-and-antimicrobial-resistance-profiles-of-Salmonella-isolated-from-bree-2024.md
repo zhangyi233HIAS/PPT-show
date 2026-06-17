@@ -3,7 +3,7 @@ title: "Epidemiological investigation and antimicrobial resistance profiles of S
 doi: "10.3389/fcimb.2020.00497"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/M44BANYQ"
   zotero_pdf: "zotero://open-pdf/library/items/J34V29AD"

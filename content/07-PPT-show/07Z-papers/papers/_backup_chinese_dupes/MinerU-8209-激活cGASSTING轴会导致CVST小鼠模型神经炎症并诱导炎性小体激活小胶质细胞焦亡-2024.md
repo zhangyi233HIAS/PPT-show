@@ -3,7 +3,7 @@ title: "激活cGAS-STING轴会导致CVST小鼠模型中的神经炎症，并诱�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/JLMXN4ES"
   zotero_pdf: "zotero://open-pdf/library/items/663FPCZ8"

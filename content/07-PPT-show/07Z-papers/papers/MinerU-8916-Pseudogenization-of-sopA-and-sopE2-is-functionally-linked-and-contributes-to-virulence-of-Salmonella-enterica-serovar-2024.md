@@ -3,7 +3,7 @@ title: "Pseudogenization of sopA and sopE2 is functionally linked and contribute
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/WDQ8WLDW"
   zotero_pdf: "zotero://open-pdf/library/items/WQFNSRGT"

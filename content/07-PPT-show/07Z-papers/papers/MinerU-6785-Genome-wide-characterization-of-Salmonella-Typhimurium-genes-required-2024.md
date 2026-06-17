@@ -3,7 +3,7 @@ title: "Genome-wide characterization of Salmonella Typhimurium genes required"
 doi: "10.1101/2021.07.28.454258"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/NSFU5PPU"
   zotero_pdf: "zotero://open-pdf/library/items/SDJVNA73"

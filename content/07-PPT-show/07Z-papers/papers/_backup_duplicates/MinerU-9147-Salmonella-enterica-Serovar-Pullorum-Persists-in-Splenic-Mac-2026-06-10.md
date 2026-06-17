@@ -3,7 +3,7 @@ title: "Salmonella enterica Serovar Pullorum Persists in Splenic Macrophages and
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/ENDD3N2P"
   zotero_pdf: "zotero://open-pdf/library/items/IEVM6D5A"

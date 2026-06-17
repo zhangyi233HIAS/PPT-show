@@ -3,7 +3,7 @@ title: "Site-directed (IS30-FljA) transposon mutagenesis system to produce non£
 doi: "10.1111/j.1574-6968.2011.02210.x"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/HMYMWIA8"
   zotero_pdf: "zotero://open-pdf/library/items/ILENEKD6"

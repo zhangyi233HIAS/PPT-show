@@ -3,7 +3,7 @@ title: "噬菌体介导的沙门氏菌肠炎致病基因的水平转移及其宿
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/JXAQDBCA"
   zotero_pdf: "zotero://open-pdf/library/items/NHDLEA2N"

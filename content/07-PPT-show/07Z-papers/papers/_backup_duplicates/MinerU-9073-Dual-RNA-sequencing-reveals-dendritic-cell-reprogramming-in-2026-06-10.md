@@ -3,7 +3,7 @@ title: "Dual RNA sequencing reveals dendritic cell reprogramming in response to 
 doi: "10.1038/s42003-022-03038-z"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/IMPERHMQ"
   zotero_pdf: "zotero://open-pdf/library/items/DU8IJHWJ"

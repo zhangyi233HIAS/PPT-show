@@ -3,7 +3,7 @@ title: "Cytokine Signaling in Splenic Leukocytes from Vaccinated and Non-Vaccina
 doi: "10.1371/journal.pone.0032346"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/25WH8D74"
   zotero_pdf: "zotero://open-pdf/library/items/6G6FDTKG"

@@ -3,7 +3,7 @@ title: "User Guide for Tn-seq analysis software (TSAS)"
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/ZJEJ7ID8"
   zotero_pdf: "zotero://open-pdf/library/items/TIC49F6K"

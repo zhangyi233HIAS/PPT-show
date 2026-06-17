@@ -1,5 +1,5 @@
 ---
-title: "SopE and SopE2 from Salmonella typhimurium Activate Different Sets of RhoGTPases of the Host Cell\*"
+title: "SopE and SopE2 from Salmonella typhimurium Activate Different Sets of RhoGTPases of the Host Cell\\*"
 doi: "10.1074/jbc.M100609200"
 type: literature-note
 created: 2026-06-10

@@ -3,7 +3,7 @@ title: "Phage‐mediated horizontal transfer of Salmonella enterica virulence ge
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/JXAQDBCA"
   zotero_pdf: "zotero://open-pdf/library/items/CFCGB9RM"

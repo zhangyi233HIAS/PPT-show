@@ -3,7 +3,7 @@ title: "Z/I1 Hybrid Virulence Plasmids Carrying Antimicrobial Resistance genes i
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/9JNEKQGJ"
   zotero_pdf: "zotero://open-pdf/library/items/L2GDV6GH"

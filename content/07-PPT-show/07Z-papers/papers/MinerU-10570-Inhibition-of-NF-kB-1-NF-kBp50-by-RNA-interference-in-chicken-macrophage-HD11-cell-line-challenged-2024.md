@@ -3,7 +3,7 @@ title: "Inhibition of NF-kB 1 (NF-kBp50) by RNA interference in chicken macropha
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/SAAAJQR5"
   zotero_pdf: "zotero://open-pdf/library/items/6KLKKEYP"

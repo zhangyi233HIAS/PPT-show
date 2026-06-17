@@ -3,7 +3,7 @@ title: "The phagosomal solute transporter SLC15A4 promotes inflammasome activity
 doi: "10.15252/embj.2022111161"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/QWTFW889"
   zotero_pdf: "zotero://open-pdf/library/items/K5CNJYXG"

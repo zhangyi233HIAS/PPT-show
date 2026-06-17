@@ -3,7 +3,7 @@ title: "CsgD regulatory network in a bacterial traitaltering biofilm formation"
 doi: "10.1038/emi.2014.1"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/FWBXZT47"
   zotero_pdf: "zotero://open-pdf/library/items/DU87BXY9"

@@ -3,7 +3,7 @@ title: "Limited Heme Oxygenase Contribution to Modulating the Severity of Salmon
 doi: "10.3390/antiox11061040"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/VX48ISHE"
   zotero_pdf: "zotero://open-pdf/library/items/3HCJ8A7I"

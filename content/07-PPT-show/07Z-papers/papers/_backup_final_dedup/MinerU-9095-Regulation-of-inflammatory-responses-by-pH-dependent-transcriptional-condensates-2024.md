@@ -3,7 +3,7 @@ title: "pH依赖性转录凝聚体调控炎症反应"
 doi: "10.1016/j.cell.2025.06.033"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/5SMSIR6T"
   zotero_pdf: "zotero://open-pdf/library/items/ZBQRX9D5"

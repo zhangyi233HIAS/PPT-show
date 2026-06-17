@@ -3,7 +3,7 @@ title: "Single nucleus/cell RNA-seq of the chicken hypothalamicpituitary-o
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/X5Q2V2RW"
   zotero_pdf: "zotero://open-pdf/library/items/TKJ86GD5"

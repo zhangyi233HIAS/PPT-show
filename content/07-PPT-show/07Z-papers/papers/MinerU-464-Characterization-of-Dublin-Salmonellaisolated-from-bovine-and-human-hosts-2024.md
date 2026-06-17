@@ -3,7 +3,7 @@ title: "Characterization of Dublin Salmonellaisolated from bovine and human host
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MCV6658F"
   zotero_pdf: "zotero://open-pdf/library/items/XZF6WS8V"

@@ -3,7 +3,7 @@ title: "Manipulation of host immune defenses by effector proteins delivered from
 doi: "10.3389/fimmu.2023.1152017"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/WPTTP3FZ"
   zotero_pdf: "zotero://open-pdf/library/items/KN5RMLHS"

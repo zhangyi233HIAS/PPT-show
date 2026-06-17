@@ -3,7 +3,7 @@ title: "Global Screening of Salmonella enterica Serovar Typhimurium Genes for De
 doi: "10.3389/fmicb.2017.01723"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/CFFQHVZX"
   zotero_pdf: "zotero://open-pdf/library/items/54LZBRCF"

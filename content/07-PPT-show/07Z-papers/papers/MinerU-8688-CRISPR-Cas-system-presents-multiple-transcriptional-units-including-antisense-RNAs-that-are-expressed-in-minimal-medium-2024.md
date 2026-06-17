@@ -3,7 +3,7 @@ title: "CRISPR-Cas system presents multiple transcriptional units including anti
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/YXMW5Q3X"
   zotero_pdf: "zotero://open-pdf/library/items/7NZTL2DF"

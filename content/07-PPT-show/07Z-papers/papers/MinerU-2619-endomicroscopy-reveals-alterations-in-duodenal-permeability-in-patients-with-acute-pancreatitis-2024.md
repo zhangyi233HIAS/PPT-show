@@ -3,7 +3,7 @@ title: "endomicroscopy reveals alterations in duodenal permeability in patients 
 doi: "10.1177/0300060518820430"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MCBNAX4Y"
   zotero_pdf: "zotero://open-pdf/library/items/REMQDSR8"

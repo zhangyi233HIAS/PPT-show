@@ -3,7 +3,7 @@ title: "Salmonella Enteritidis is superior in egg white survival compared with o
 doi: "10.3382/ps.2012-02668"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/GAKWDJKJ"
   zotero_pdf: "zotero://open-pdf/library/items/HTARWAN2"

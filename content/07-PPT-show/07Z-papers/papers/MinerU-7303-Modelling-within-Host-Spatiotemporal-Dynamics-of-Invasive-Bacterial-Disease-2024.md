@@ -3,7 +3,7 @@ title: "Modelling within-Host Spatiotemporal Dynamics of Invasive Bacterial Dise
 doi: "10.1371/journal.pbio.0060074"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MIDPJWTV"
   zotero_pdf: "zotero://open-pdf/library/items/SVNBP9AW"

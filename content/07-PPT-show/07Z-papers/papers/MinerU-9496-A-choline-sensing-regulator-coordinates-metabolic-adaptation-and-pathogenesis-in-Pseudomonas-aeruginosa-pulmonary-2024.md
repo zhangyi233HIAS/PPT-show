@@ -3,7 +3,7 @@ title: "A choline-sensing regulator coordinates metabolic adaptation and pathoge
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/C7CC74BD"
   zotero_pdf: "zotero://open-pdf/library/items/NUPS2JBF"

@@ -3,7 +3,7 @@ title: "Comparative Genomic Analysis and Characterization of Two Salmonella ente
 doi: "10.3389/fmicb.2018.02111"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/DP7GS4C9"
   zotero_pdf: "zotero://open-pdf/library/items/UDGGFRBC"

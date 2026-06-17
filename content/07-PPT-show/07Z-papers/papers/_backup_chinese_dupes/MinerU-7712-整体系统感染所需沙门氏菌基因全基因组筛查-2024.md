@@ -3,7 +3,7 @@ title: "整体系统感染所需的沙门氏菌基因的全基因组筛查"
 doi: "10.1371/journal.ppat.0020011.g001"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/Q7P3QRAY"
   zotero_pdf: "zotero://open-pdf/library/items/5A5XZAIU"

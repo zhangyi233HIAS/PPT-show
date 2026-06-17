@@ -3,7 +3,7 @@ title: "Mining and validating quorum sensing interference molecules from food-de
 doi: "10.1039/d5fo00185d"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/TY59G3TU"
   zotero_pdf: "zotero://open-pdf/library/items/BETYWGSJ"

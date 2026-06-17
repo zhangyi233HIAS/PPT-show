@@ -3,7 +3,7 @@ title: "Salmonella pathogenicity island-14 is a critical virulence factor respon
 doi: "10.3389/fvets.2024.1401392"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/VQXH84HJ"
   zotero_pdf: "zotero://open-pdf/library/items/R8E2YE5G"

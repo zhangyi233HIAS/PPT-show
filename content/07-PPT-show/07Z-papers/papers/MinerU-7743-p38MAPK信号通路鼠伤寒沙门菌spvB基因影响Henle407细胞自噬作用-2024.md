@@ -3,7 +3,7 @@ title: "p38MAPK信号通路在鼠伤寒沙门菌spvB基因影响Henle-407细胞�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/VGL5H5IE"

@@ -3,7 +3,7 @@ title: "Variety-dependent seed endophytic bacteria enhance stress tolerance to 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/D754E6PT"
   zotero_pdf: "zotero://open-pdf/library/items/GZZ8PG85"

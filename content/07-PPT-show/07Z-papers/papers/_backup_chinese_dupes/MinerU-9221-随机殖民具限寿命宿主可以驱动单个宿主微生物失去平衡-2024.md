@@ -3,7 +3,7 @@ title: "随机殖民具有有限寿命的宿主可以驱动单个宿主微生物
 doi: "10.1371/journal.pcbi.1008392"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/DLTN25VJ"
   zotero_pdf: "zotero://open-pdf/library/items/GDV6HF8S"

@@ -3,7 +3,7 @@ title: "Proposal of a Method for Harmonized Broth Microdilution Antimicrobial Su
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/A2BH5UCN"
   zotero_pdf: "zotero://open-pdf/library/items/T9DIRNCU"

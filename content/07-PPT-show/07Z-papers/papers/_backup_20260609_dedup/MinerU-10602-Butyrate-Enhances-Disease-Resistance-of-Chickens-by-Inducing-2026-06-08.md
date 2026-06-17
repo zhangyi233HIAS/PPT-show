@@ -3,7 +3,7 @@ title: "Butyrate Enhances Disease Resistance of Chickens by Inducing Antimicrobi
 doi: "10.1371/journal.pone.0027225"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/I425ZSNB"
   zotero_pdf: "zotero://open-pdf/library/items/JS5EI78D"

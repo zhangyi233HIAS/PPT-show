@@ -3,7 +3,7 @@ title: "Utility Evaluation of Porcine Enteroids as PDCoV Infection Model in vitr
 doi: "10.3389/fmicb.2020.00821"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/YQ2I8CJM"
   zotero_pdf: "zotero://open-pdf/library/items/YER6SV3H"

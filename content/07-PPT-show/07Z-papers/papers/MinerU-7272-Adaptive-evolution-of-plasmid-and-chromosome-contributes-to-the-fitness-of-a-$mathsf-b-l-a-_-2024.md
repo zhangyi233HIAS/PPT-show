@@ -1,5 +1,5 @@
 ---
-title: "Adaptive evolution of plasmid and chromosome contributes to the fitness of a $\mathsf { b l a } _ { "
+title: "Adaptive evolution of plasmid and chromosome contributes to the fitness of a $\\mathsf { b l a } _ { "
 doi: ""
 type: literature-note
 created: 2026-06-09

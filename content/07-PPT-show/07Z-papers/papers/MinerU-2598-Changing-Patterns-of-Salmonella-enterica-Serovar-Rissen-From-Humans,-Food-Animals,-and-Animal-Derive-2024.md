@@ -3,7 +3,7 @@ title: "Changing Patterns of Salmonella enterica Serovar Rissen From Humans, Foo
 doi: "10.3389/fmicb.2021.702909"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/824V7LH4"
   zotero_pdf: "zotero://open-pdf/library/items/QKIBN69J"

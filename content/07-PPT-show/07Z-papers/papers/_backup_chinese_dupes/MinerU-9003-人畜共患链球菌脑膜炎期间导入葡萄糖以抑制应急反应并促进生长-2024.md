@@ -3,7 +3,7 @@ title: "人畜共患链球菌在脑膜炎期间导入葡萄糖以抑制应急反
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/GMWRFXP8"
   zotero_pdf: "zotero://open-pdf/library/items/7XKPKQGK"

@@ -3,7 +3,7 @@ title: "Acetylation of PhoP K88 Is Involved in Regulating Salmonella Virulence"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/7DSZ84S6"
   zotero_pdf: "zotero://open-pdf/library/items/6V9JP6IS"

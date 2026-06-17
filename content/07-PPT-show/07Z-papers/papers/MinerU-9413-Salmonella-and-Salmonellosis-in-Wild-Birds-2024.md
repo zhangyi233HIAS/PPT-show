@@ -3,7 +3,7 @@ title: "Salmonella and Salmonellosis in Wild Birds"
 doi: "10.3390/ani14233533"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/7DUBCHXS"
   zotero_pdf: "zotero://open-pdf/library/items/QSZZHC84"

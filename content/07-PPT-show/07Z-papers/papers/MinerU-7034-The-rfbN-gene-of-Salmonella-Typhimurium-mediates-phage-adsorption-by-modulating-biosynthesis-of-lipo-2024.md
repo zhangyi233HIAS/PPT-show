@@ -3,7 +3,7 @@ title: "The rfbN gene of Salmonella Typhimurium mediates phage adsorption by mod
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/CA57BVW5"
   zotero_pdf: "zotero://open-pdf/library/items/YZHKJX4N"

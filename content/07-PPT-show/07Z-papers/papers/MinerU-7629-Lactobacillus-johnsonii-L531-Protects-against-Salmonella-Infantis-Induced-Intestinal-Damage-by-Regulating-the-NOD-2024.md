@@ -3,7 +3,7 @@ title: "Lactobacillus johnsonii L531 Protects against Salmonella Infantis-Induce
 doi: "10.3390/ijms231810395"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/AWYWHXLD"
   zotero_pdf: "zotero://open-pdf/library/items/RVNIT9XU"

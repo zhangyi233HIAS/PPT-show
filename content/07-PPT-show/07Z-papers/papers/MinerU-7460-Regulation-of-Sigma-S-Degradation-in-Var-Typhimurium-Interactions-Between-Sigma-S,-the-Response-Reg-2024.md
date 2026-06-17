@@ -3,7 +3,7 @@ title: "Regulation of Sigma S Degradation in Var Typhimurium: Interactions Betwe
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/FANDHZAC"

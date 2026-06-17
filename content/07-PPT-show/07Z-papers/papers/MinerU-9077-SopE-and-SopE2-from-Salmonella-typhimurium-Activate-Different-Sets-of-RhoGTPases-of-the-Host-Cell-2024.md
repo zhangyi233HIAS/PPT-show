@@ -3,7 +3,7 @@ title: "SopE and SopE2 from Salmonella typhimurium Activate Different Sets of Rh
 doi: "10.1074/jbc.M100609200"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/9S5QQRTN"
   zotero_pdf: "zotero://open-pdf/library/items/4INMF6XE"

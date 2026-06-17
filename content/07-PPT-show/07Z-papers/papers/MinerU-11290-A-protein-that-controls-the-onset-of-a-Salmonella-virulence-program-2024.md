@@ -3,7 +3,7 @@ title: "A protein that controls the onset of a Salmonella virulence program"
 doi: "10.15252/embj.201796977"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/M7LLSLN8"
   zotero_pdf: "zotero://open-pdf/library/items/P6JREJ7H"

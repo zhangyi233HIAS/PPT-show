@@ -3,7 +3,7 @@ title: "Sequence tag: the name is automatically created by PEPPAN pipeline (Zhou
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/LRZJ3W6T"

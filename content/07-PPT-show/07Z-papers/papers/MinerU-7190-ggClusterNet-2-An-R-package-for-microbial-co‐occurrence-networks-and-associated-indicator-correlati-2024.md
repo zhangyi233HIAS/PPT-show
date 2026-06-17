@@ -3,7 +3,7 @@ title: "ggClusterNet 2: An R package for microbial co‐occurrence networks and 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/JXC9T44Q"
   zotero_pdf: "zotero://open-pdf/library/items/T6PJUIRU"

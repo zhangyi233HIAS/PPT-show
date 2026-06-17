@@ -3,7 +3,7 @@ title: "Similarity of genes horizontally acquired by Escherichia coli and Salmon
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/YVUHQPPD"
   zotero_pdf: "zotero://open-pdf/library/items/ZADKX2PI"

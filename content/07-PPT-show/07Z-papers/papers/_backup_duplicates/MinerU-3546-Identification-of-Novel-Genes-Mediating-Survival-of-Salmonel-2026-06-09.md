@@ -3,7 +3,7 @@ title: "Identification of Novel Genes Mediating Survival of Salmonella on Low-Mo
 doi: "10.3389/fmicb.2020.00726"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/LVESM323"
   zotero_pdf: "zotero://open-pdf/library/items/F85AJSED"

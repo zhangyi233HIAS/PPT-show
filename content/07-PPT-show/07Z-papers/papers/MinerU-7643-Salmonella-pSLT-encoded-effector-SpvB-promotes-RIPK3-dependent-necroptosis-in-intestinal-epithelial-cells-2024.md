@@ -3,7 +3,7 @@ title: "Salmonella pSLT-encoded effector SpvB promotes RIPK3-dependent necroptos
 doi: "10.1038/s41420-022-00841-9"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MDWZ9DLY"
   zotero_pdf: "zotero://open-pdf/library/items/UWWKF6S8"

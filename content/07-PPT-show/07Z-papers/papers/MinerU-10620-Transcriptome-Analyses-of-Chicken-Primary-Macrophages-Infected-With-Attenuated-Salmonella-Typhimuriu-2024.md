@@ -3,7 +3,7 @@ title: "Transcriptome Analyses of Chicken Primary Macrophages Infected With Atte
 doi: "10.3389/fmicb.2022.857378"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/EENAL8GP"
   zotero_pdf: "zotero://open-pdf/library/items/CHGK35GU"

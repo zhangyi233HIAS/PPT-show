@@ -1,5 +1,5 @@
 ---
-title: "Genomic Characterization of New Variant of Hydrogen Sulfide $\left( \mathbf { H } _ { 2 } \mathbf { "
+title: "Genomic Characterization of New Variant of Hydrogen Sulfide $\\left( \\mathbf { H } _ { 2 } \\mathbf { "
 doi: ""
 type: literature-note
 created: 2026-06-09

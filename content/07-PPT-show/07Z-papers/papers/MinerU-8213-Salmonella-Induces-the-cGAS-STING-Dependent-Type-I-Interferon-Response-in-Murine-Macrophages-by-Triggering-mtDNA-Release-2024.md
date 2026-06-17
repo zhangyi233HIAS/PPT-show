@@ -3,7 +3,7 @@ title: "Salmonella Induces the cGAS-STING-Dependent Type I Interferon Response i
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/8Q3Z9PKQ"
   zotero_pdf: "zotero://open-pdf/library/items/GCZSQFU2"

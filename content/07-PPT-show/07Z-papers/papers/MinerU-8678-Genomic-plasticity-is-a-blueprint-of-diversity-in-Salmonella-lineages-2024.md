@@ -3,7 +3,7 @@ title: "Genomic plasticity is a blueprint of diversity in Salmonella lineages"
 doi: "10.1101/2023.12.02.569618"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/8QMYIMUZ"
   zotero_pdf: "zotero://open-pdf/library/items/2WJ64T6A"

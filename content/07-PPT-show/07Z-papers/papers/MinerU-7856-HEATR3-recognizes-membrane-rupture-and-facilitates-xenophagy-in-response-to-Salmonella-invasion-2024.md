@@ -3,7 +3,7 @@ title: "HEATR3 recognizes membrane rupture and facilitates xenophagy in response
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/XLW4XN7Y"
   zotero_pdf: "zotero://open-pdf/library/items/AXATHB2S"

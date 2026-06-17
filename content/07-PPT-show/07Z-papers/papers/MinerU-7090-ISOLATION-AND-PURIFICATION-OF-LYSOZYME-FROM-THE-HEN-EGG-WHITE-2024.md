@@ -3,7 +3,7 @@ title: "ISOLATION AND PURIFICATION OF LYSOZYME FROM THE HEN EGG WHITE"
 doi: "10.15407/biotech8.06.041"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/DNQ3W77J"
   zotero_pdf: "zotero://open-pdf/library/items/JW2DF243"

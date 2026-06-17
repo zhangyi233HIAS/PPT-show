@@ -3,7 +3,7 @@ title: "Corrected Genome Annotations Reveal Gene Loss and Antibiotic Resistance 
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/VWHY4JIN"
   zotero_pdf: "zotero://open-pdf/library/items/8GZ5E23D"

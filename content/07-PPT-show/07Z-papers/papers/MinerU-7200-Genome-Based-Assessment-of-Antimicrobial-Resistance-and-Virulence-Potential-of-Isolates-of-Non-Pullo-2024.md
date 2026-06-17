@@ -3,7 +3,7 @@ title: "Genome-Based Assessment of Antimicrobial Resistance and Virulence Potent
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/TCYIC9RM"
   zotero_pdf: "zotero://open-pdf/library/items/P94GPAYD"

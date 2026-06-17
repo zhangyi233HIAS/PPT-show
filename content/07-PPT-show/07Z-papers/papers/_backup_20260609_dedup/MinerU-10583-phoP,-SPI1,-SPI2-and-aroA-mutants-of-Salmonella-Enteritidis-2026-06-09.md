@@ -3,7 +3,7 @@ title: "phoP, SPI1, SPI2 and aroA mutants of Salmonella Enteritidis induce a dif
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/8YW5SWBL"
   zotero_pdf: "zotero://open-pdf/library/items/DQBHTZC6"

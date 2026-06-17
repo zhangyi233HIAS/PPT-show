@@ -3,7 +3,7 @@ title: "JMM Profile: Salmonella enterica serovar Gallinarum, biovars Pullorum an
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/WJJTPA2K"
   zotero_pdf: "zotero://open-pdf/library/items/269UEN2G"

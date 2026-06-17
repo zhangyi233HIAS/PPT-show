@@ -3,7 +3,7 @@ title: "CLINICAL EXPERIMENTAL VACCINE RESEARCH CrossMark click forupdates"
 doi: "10.7774/cevr.2016.5.2.148"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/HP822IX8"
   zotero_pdf: "zotero://open-pdf/library/items/P823UZV6"

@@ -3,7 +3,7 @@ title: "The global transcriptomes of Salmonella enterica serovars Gallinarum, Du
 doi: "10.1016/j.micpath.2023.106236"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/QI84D4QD"
   zotero_pdf: "zotero://open-pdf/library/items/FP8VDJZG"

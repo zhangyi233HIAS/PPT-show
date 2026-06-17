@@ -3,7 +3,7 @@ title: "Genomic Investigation of Antimicrobial-Resistant Salmonella enterica Iso
 doi: "10.3389/fmicb.2021.684400"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/INWDMX8E"
   zotero_pdf: "zotero://open-pdf/library/items/WXBDXSID"

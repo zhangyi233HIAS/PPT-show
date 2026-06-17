@@ -3,7 +3,7 @@ title: "ZntA maintains zinc and cadmium homeostasis and promotes oxidative stres
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/JCJ7BKFT"
   zotero_pdf: "zotero://open-pdf/library/items/YI2H8U5P"

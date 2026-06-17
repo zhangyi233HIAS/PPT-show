@@ -3,7 +3,7 @@ title: "Activating cGAS–STING axis contributes to neuroinfammation in CVST m
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/JLMXN4ES"
   zotero_pdf: "zotero://open-pdf/library/items/39CK7JQX"

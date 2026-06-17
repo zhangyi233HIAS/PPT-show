@@ -3,7 +3,7 @@ title: "A nontyphoidal Salmonella serovar domestication accompanying enhanced ni
 doi: "10.15252/emmm.202216366"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/YXFH35KP"
   zotero_pdf: "zotero://open-pdf/library/items/6LEHGP7R"

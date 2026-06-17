@@ -3,7 +3,7 @@ title: "From Prompting to Proficiency: A Mixed-Methods Analysis of Prompting wit
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/LUL93YUI"
   zotero_pdf: "zotero://open-pdf/library/items/RUQP46EY"

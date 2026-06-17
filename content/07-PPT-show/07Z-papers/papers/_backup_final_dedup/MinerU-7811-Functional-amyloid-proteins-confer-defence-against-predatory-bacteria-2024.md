@@ -3,7 +3,7 @@ title: "Functional amyloid proteins confer defence against predatory bacteria"
 doi: "10.1038/s41586-025-09204-7"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/DIDH4PZB"
   zotero_pdf: "zotero://open-pdf/library/items/9BPRT6XL"

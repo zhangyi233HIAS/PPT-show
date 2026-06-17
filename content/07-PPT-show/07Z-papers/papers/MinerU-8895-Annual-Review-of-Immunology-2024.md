@@ -3,7 +3,7 @@ title: "Annual Review of Immunology"
 doi: "10.1146/annurev-immunol-101721-"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/FML3J6QI"
   zotero_pdf: "zotero://open-pdf/library/items/T7R5IX28"

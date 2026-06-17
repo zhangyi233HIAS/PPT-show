@@ -3,7 +3,7 @@ title: "Correction: Sodium butyrate modulates chicken macrophage proteins essent
 doi: "10.1371/journal.pone.0303452"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/UI398EFX"
   zotero_pdf: "zotero://open-pdf/library/items/35U4D5KU"

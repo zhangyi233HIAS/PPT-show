@@ -3,7 +3,7 @@ title: "Iron-dependent essential genes in Salmonella Typhimurium"
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/Q99JU85E"
   zotero_pdf: "zotero://open-pdf/library/items/FVARR4DL"

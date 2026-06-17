@@ -3,7 +3,7 @@ title: "Activation of Interleukin-1 Receptor-Associated Kinase by Gram-Negative 
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/3RYMLYET"
   zotero_pdf: "zotero://open-pdf/library/items/5WFH9ICX"

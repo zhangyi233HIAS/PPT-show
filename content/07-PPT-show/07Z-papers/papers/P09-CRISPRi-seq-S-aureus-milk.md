@@ -1,0 +1,62 @@
+---
+title: "CRISPRi-seq of Staphylococcus aureus growth in milk"
+authors:
+  - "PLOS Pathogens Authors"
+journal: "PLOS Pathogens"
+year: 2025
+doi: "10.1371/journal.ppat.1013080"
+tags:
+  - CRISPRi-seq
+  - Staphylococcus-aureus
+  - 基因必需性
+  - 牛奶基质
+  - 功能基因组学
+  - 细菌生长
+  - 筛选技术
+created: 2026-06-03
+type: literature-note
+source: 沙门菌合并PDF.pdf
+pages: "153-175"
+source:
+  mineru_md: "file:///G:/zotero/llm-for-zotero-mineru/7084/full.md"
+  mineru_images: "file:///G:/zotero/llm-for-zotero-mineru/7084/images"
+
+---
+
+# CRISPRi-seq of Staphylococcus aureus Growth in Milk
+
+## 中文摘要
+
+本研究利用[[CRISPRi-seq]]技术对金黄色葡萄球菌（*Staphylococcus aureus*）在牛奶中的生长进行了全基因组水平的功能筛选。通过比较BHI培养基与UHT牛奶两种培养条件，鉴定了**282个**在牛奶生长中必需的基因（L2FC ≤ -1，p < 0.05）。这些必需基因主要涉及[[DNA复制]]、[[蛋白质合成]]、[[细胞分裂]]和[[中心代谢]]等核心生物学过程。该研究为理解食源性病原菌在食品基质中的生存机制提供了系统性见解。
+
+## 关键方法
+
+- **[[CRISPRi-seq]]筛选**：利用CRISPR干扰（CRISPRi）构建全基因组敲低文库，通过高通量测序量化基因必需性
+- **双培养基比较**：BHI（脑心浸液）培养基 vs UHT（超高温灭菌）牛奶条件对比
+- **统计筛选标准**：L2FC ≤ -1 且 p < 0.05 的基因判定为必需基因
+- **SRA数据**：PRJNA1173950
+- **生物信息学分析**：功能富集分析、代谢通路映射
+
+## 关键发现
+
+1. 鉴定出282个金黄色葡萄球菌在牛奶中生长的必需基因
+2. 必需基因集中于[[DNA复制]]、[[蛋白质合成]]、[[细胞分裂]]和[[中心代谢]]等通路
+3. 牛奶基质对细菌营养需求与标准培养基存在显著差异
+4. 揭示了食源性病原菌适应食品环境的分子基础
+
+## 沙门菌研究相关性
+
+- **方法学参考**：[[CRISPRi-seq]]技术可直接应用于[[沙门氏菌]]在不同食品/宿主环境中的必需基因筛选
+- **比较微生物学**：金黄色葡萄球菌与[[沙门氏菌]]在食品基质中的生存策略对比具有参考价值
+- **食品安全**：两种食源性病原菌在食品加工条件下的存活机制比较
+- **技术迁移**：CRISPRi筛选策略可应用于[[鼠伤寒沙门氏菌]]、[[肠炎沙门氏菌]]等血清型研究
+
+## 相关链接
+
+- [[CRISPRi-seq]]
+- [[基因必需性]]
+- [[金黄色葡萄球菌]]
+- [[食品安全微生物学]]
+- [[功能基因组学]]
+- [[食源性病原菌]]
+

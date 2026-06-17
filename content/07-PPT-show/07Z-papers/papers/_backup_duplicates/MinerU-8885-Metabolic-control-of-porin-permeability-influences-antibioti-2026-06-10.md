@@ -3,7 +3,7 @@ title: "Metabolic control of porin permeability influences antibiotic resistance
 doi: "10.1038/s41564-025-02175-5"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/55H6C8ZI"
   zotero_pdf: "zotero://open-pdf/library/items/EV7HCLT3"

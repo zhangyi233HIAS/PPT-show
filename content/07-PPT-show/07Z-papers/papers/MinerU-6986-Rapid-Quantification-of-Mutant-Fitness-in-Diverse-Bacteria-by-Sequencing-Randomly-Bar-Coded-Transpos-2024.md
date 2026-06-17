@@ -3,7 +3,7 @@ title: "Rapid Quantification of Mutant Fitness in Diverse Bacteria by Sequencing
 doi: "10.1128/mBio.00306-15"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/S7EEJQHE"
   zotero_pdf: "zotero://open-pdf/library/items/8M4I6EGN"

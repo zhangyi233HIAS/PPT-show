@@ -3,7 +3,7 @@ title: "Vascular transcription factors guide plant epidermal responses to limiti
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/8BX8MCAP"
   zotero_pdf: "zotero://open-pdf/library/items/K7CNU7M3"

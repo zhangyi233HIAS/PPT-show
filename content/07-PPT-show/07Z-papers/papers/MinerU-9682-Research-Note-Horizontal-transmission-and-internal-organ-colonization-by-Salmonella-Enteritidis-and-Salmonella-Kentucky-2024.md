@@ -3,7 +3,7 @@ title: "Research Note: Horizontal transmission and internal organ colonization b
 doi: "10.1016/j.psj.2020.08.006"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/REDLDQS5"
   zotero_pdf: "zotero://open-pdf/library/items/5RJX53LP"

@@ -3,7 +3,7 @@ title: "P62 inhibits IL-1 release during bSalmonella Typhimurium infection of ma
 doi: "10.3389/fcimb.2025.1495567"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/VLJCQE5S"
   zotero_pdf: "zotero://open-pdf/library/items/4WM7ISX4"

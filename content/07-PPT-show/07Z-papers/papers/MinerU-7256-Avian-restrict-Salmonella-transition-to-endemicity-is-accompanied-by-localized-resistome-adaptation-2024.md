@@ -3,7 +3,7 @@ title: "Avian-restrict Salmonella transition to endemicity is accompanied by loc
 doi: "10.7554/eLife.101241.1.sa2"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/5FHJX8QA"
   zotero_pdf: "zotero://open-pdf/library/items/7LY5LDBI"

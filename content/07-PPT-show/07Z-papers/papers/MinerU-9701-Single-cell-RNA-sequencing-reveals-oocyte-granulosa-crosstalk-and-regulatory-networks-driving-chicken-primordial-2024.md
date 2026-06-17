@@ -3,7 +3,7 @@ title: "Single-cell RNA sequencing reveals oocyte-granulosa crosstalk and regula
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/IXVNJAK8"
   zotero_pdf: "zotero://open-pdf/library/items/859JXRM6"

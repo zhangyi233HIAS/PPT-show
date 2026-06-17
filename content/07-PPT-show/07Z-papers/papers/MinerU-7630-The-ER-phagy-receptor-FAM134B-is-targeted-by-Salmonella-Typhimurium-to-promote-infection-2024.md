@@ -3,7 +3,7 @@ title: "The ER-phagy receptor FAM134B is targeted by Salmonella Typhimurium to p
 doi: "10.1038/s41467-025-58035-7"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/MYQJJEYG"
   zotero_pdf: "zotero://open-pdf/library/items/AYQKFNPQ"

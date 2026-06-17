@@ -3,7 +3,7 @@ title: "Genome-wide analysis of acid tolerance genes of Enterococcus faecalis wi
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/LPQRPUQX"
   zotero_pdf: "zotero://open-pdf/library/items/UVY3GW63"

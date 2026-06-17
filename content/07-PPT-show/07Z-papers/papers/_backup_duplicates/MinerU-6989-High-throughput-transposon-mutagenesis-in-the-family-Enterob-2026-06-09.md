@@ -3,7 +3,7 @@ title: "High-throughput transposon mutagenesis in the family Enterobacteriaceae 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/NQJPJI96"
   zotero_pdf: "zotero://open-pdf/library/items/WR7CTUJI"

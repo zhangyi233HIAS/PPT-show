@@ -3,7 +3,7 @@ title: "Dual RNA-seq unveils noncoding RNA functions in host–pathogen interact
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/9CPQB9V3"
   zotero_pdf: "zotero://open-pdf/library/items/MMIL7QCA"

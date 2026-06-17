@@ -3,7 +3,7 @@ title: "Kinetics Absorption Characteristics of Ferrous Glycinate in SD Rats and 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/M4MSPJMK"
   zotero_pdf: "zotero://open-pdf/library/items/7S7HNGWQ"

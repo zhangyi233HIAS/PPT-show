@@ -3,7 +3,7 @@ title: "Genomic Characterization of mcr-1-carrying Salmonella enterica Serovar 4
 doi: "10.3389/fbioe.2020.00663"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/UBQFUE46"
   zotero_pdf: "zotero://open-pdf/library/items/69RJUYU2"

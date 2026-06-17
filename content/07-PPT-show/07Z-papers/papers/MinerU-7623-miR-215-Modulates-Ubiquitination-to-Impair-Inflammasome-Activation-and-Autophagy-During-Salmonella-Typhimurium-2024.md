@@ -3,7 +3,7 @@ title: "miR-215 Modulates Ubiquitination to Impair Inflammasome Activation and A
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/2T973QAV"
   zotero_pdf: "zotero://open-pdf/library/items/XS7GCNQC"

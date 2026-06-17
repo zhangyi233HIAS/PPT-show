@@ -3,7 +3,7 @@ title: "沙门氏菌 CRISPR 位点的结构特征比较"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/4GKHE5JB"
   zotero_pdf: "zotero://open-pdf/library/items/I59MXB6U"

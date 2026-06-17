@@ -3,7 +3,7 @@ title: "O-antigen repeat number in Salmonella enterica serovar Enteritidis is im
 doi: "10.1111/1574-6968.12143"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/QCU56DPG"
   zotero_pdf: "zotero://open-pdf/library/items/DES8VB35"

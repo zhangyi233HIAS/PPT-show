@@ -3,7 +3,7 @@ title: "SIRT3-mediated deacetylation of NLRC4 promotes inflammasome activation"
 doi: "10.7150/thno.55573"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/9BAFUKJ8"
   zotero_pdf: "zotero://open-pdf/library/items/JBRCFTU6"

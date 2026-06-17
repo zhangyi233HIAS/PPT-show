@@ -3,7 +3,7 @@ title: "Indoloquinoline alkaloid neocryptolepine derivative inhibits Botrytis ci
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/UXTDT5PQ"
   zotero_pdf: "zotero://open-pdf/library/items/2LSNKBVV"

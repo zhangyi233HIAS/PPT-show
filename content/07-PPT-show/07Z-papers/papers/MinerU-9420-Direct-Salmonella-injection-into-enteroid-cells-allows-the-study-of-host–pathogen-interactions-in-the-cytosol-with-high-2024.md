@@ -3,7 +3,7 @@ title: "Direct Salmonella injection into enteroid cells allows the study of host
 doi: "10.1371/journal.pbio.3002597"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/IW3483ZC"
   zotero_pdf: "zotero://open-pdf/library/items/TH9CVQHF"

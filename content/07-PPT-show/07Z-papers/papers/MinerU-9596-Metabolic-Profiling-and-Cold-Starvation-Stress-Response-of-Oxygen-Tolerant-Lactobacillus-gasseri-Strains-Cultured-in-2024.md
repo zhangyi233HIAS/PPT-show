@@ -3,7 +3,7 @@ title: "Metabolic Profiling and Cold-Starvation Stress Response of Oxygen-Tolera
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/N3L23LNA"
   zotero_pdf: "zotero://open-pdf/library/items/MXIAZ6BL"

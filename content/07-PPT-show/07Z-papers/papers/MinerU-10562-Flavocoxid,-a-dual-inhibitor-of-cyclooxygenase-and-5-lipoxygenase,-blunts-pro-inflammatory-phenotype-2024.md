@@ -3,7 +3,7 @@ title: "Flavocoxid, a dual inhibitor of cyclooxygenase and 5-lipoxygenase, blunt
 doi: "10.1111/j.1476-5381.2009.00322.x"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/Z62D2Y7Q"
   zotero_pdf: "zotero://open-pdf/library/items/AEWEGLS6"

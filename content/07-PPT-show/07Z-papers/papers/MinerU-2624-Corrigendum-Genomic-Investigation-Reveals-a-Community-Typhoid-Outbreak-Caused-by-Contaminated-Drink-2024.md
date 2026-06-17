@@ -3,7 +3,7 @@ title: "Corrigendum: Genomic Investigation Reveals a Community Typhoid Outbreak 
 doi: "10.3389/fmed.2022.918129"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/IC7XA2QF"
   zotero_pdf: "zotero://open-pdf/library/items/ZBXIAIWY"

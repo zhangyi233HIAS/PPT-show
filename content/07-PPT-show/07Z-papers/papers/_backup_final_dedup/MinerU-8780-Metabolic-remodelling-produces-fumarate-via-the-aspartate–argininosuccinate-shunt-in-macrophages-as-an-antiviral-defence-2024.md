@@ -3,7 +3,7 @@ title: "Metabolic remodelling produces fumarate via the aspartate–argininosucc
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/R6ZSMMQX"
   zotero_pdf: "zotero://open-pdf/library/items/EK4KABX9"

@@ -3,7 +3,7 @@ title: "Salmonellae PhoPQ regulation of the outer membrane to resist innate immu
 doi: "10.1016/j.mib.2013.12.005"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/M8H8GEF2"
   zotero_pdf: "zotero://open-pdf/library/items/7QGQUJKS"

@@ -3,7 +3,7 @@ title: "Salmonella alters heparanase expression and reduces tumor metastasis"
 doi: "10.7150/ijms.60281"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/SVZYSGQE"
   zotero_pdf: "zotero://open-pdf/library/items/H8BE4MB8"

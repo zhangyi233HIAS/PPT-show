@@ -3,7 +3,7 @@ title: "Cross-kingdom metabolic manipulation promotes Salmonella replication ins
 doi: "10.1038/s41467-021-22198-w"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/TLEFKKIU"
   zotero_pdf: "zotero://open-pdf/library/items/AMKK5HDG"

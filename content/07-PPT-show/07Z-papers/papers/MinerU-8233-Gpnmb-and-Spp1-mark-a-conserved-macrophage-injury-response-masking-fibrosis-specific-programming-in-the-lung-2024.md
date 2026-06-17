@@ -3,7 +3,7 @@ title: "Gpnmb and Spp1 mark a conserved macrophage injury response masking fibro
 doi: "10.1172/jci"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/LQ2KTW9T"
   zotero_pdf: "zotero://open-pdf/library/items/DGREJBS6"

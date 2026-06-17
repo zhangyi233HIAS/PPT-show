@@ -3,7 +3,7 @@ title: "Trade-offs between receptor modification and fitness drive host-bacterio
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/2INZTRVV"
   zotero_pdf: "zotero://open-pdf/library/items/PI7RNN6H"

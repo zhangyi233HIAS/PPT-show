@@ -3,7 +3,7 @@ title: "霍乱弧菌的运动性与动物间传播有关"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/4XSQAGJG"
   zotero_pdf: "zotero://open-pdf/library/items/96UNNC3R"

@@ -3,7 +3,7 @@ title: "V-ATPase is a universal regulator of LC3-associated phagocytosis and non
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/NT8TIWCB"
   zotero_pdf: "zotero://open-pdf/library/items/RHU72CXD"

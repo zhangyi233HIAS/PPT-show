@@ -3,7 +3,7 @@ title: "Salmonella spvC Gene Inhibits Autophagy of Host Cells and Suppresses NLR
 doi: "10.3389/fimmu.2021.639019"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/SC7C7H9X"
   zotero_pdf: "zotero://open-pdf/library/items/8ELLJB44"

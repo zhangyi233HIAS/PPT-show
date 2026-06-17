@@ -3,7 +3,7 @@ title: "Bacteria require phase separation for fitness Bacteria require phase"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/KZVTS2G2"
   zotero_pdf: "zotero://open-pdf/library/items/I5D9RBWE"

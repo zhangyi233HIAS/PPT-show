@@ -3,7 +3,7 @@ title: "PHYSIOLOGY AND REPRODUCTION"
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/59D96DW5"
   zotero_pdf: "zotero://open-pdf/library/items/XCL8R3CX"

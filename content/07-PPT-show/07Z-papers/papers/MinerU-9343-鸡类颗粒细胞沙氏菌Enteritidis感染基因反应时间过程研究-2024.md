@@ -3,7 +3,7 @@ title: "鸡类颗粒细胞对沙⻔氏菌Enteritidis感染的基因反应时间�
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/QPLJ6YV5"

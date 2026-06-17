@@ -3,7 +3,7 @@ title: "Identification of PGN\_1123 as the Gene Encoding Lipid A Deacylase, an E
 doi: "10.1128/JB"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/S9FDVB6N"
   zotero_pdf: "zotero://open-pdf/library/items/PYAX3HPN"

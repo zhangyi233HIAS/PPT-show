@@ -3,7 +3,7 @@ title: "Mechanisms of Salmonella Attachment and Survival on In-Shell Black Peppe
 doi: "10.3389/fmicb.2020.582202"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/IUDKB5C7"
   zotero_pdf: "zotero://open-pdf/library/items/LIGQ2EPK"

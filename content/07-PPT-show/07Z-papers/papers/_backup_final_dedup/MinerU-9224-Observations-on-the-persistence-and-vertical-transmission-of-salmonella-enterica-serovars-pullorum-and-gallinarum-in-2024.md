@@ -3,7 +3,7 @@ title: "对鸡沙门氏菌普鲁氏菌和鸡白痢血清型持续性和垂直传
 doi: "10.1080/03079450120054631"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/6S4ILH2V"
   zotero_pdf: "zotero://open-pdf/library/items/VGT7QYQC"

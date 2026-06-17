@@ -3,7 +3,7 @@ title: "Antimicrobial resistance level and conjugation permissiveness shape plas
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/IL6WCPFM"
   zotero_pdf: "zotero://open-pdf/library/items/MXSTW5FR"

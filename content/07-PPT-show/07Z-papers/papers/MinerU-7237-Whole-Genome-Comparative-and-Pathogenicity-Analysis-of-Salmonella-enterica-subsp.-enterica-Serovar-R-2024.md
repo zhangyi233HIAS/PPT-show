@@ -3,7 +3,7 @@ title: "Whole-Genome Comparative and Pathogenicity Analysis of Salmonella enteri
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/XP3EVC6N"
   zotero_pdf: "zotero://open-pdf/library/items/YC5ED6EB"

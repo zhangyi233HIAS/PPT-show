@@ -3,7 +3,7 @@ title: "A global genome dataset for Salmonella Gallinarum recovered between 1920
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, "#note"]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/6FQXL7SL"

@@ -3,7 +3,7 @@ title: "African Salmonella enterica serovar Typhimurium ST313 isolates prevent r
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/EMTEWVHU"
   zotero_pdf: "zotero://open-pdf/library/items/SFNHUIP2"

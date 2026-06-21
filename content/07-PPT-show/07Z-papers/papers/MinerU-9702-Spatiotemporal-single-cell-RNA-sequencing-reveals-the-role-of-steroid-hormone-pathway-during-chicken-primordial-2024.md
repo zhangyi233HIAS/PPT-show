@@ -3,7 +3,7 @@ title: "Spatiotemporal single-cell RNA sequencing reveals the role of steroid ho
 doi: "10.1016/j.psj.2024.104090"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/7BQ2T9L5"
   zotero_pdf: "zotero://open-pdf/library/items/HFHLG87B"

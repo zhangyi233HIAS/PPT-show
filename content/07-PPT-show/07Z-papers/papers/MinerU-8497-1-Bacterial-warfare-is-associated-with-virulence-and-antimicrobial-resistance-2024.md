@@ -3,7 +3,7 @@ title: "1 Bacterial warfare is associated with virulence and antimicrobial resis
 doi: "10.1101/2024.11.06.622277"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/W8R7BPA9"
   zotero_pdf: "zotero://open-pdf/library/items/9DUC8AAN"

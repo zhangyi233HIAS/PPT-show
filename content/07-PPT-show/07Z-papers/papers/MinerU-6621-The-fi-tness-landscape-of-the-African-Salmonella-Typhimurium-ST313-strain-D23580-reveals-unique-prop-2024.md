@@ -3,7 +3,7 @@ title: "The fi tness landscape of the African Salmonella Typhimurium ST313 strai
 doi: "10.1371/journal.ppat.1007948"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/C8XSGZFX"
   zotero_pdf: "zotero://open-pdf/library/items/4E9AC3VU"

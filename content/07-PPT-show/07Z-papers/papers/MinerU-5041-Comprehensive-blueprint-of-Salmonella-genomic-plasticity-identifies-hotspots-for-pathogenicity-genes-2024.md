@@ -3,7 +3,7 @@ title: "Comprehensive blueprint of Salmonella genomic plasticity identifies hots
 doi: "10.1371/journal"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/IG7PLWBP"
   zotero_pdf: "zotero://open-pdf/library/items/AQHLTAMQ"

@@ -3,7 +3,7 @@ title: "Probe-based endomicroscopy for in vivo detection of gastric intestinal m
 doi: "10.1055/s-0043-115382"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/IVW9UVCQ"
   zotero_pdf: "zotero://open-pdf/library/items/Q3B6N7XT"

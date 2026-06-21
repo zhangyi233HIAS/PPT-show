@@ -3,7 +3,7 @@ title: "Molecular Analysis of the rfb Gene Cluster of a Group D2 Salmonella ente
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/CTGHFSC8"
   zotero_pdf: "zotero://open-pdf/library/items/WJ8LAKAQ"

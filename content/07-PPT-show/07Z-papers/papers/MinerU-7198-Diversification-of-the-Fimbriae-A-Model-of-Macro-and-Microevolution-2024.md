@@ -3,7 +3,7 @@ title: "Diversification of the  Fimbriae: A Model of Macro- and Microevolution"
 doi: "10.1371/journal.pone.0038596"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/5JH3E4T8"
   zotero_pdf: "zotero://open-pdf/library/items/NSUYCE42"

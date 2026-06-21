@@ -3,7 +3,7 @@ title: "细菌中不依赖SOS的多药耐药性的快速进化"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/6ICZ78FI"
   zotero_pdf: "zotero://open-pdf/library/items/3BX5SBBM"

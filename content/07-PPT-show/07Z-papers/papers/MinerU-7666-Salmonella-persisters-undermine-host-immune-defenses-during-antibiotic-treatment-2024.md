@@ -3,7 +3,7 @@ title: "Salmonella persisters undermine host immune defenses during antibiotic t
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DP9E6LUN"
   zotero_pdf: "zotero://open-pdf/library/items/S87HX54Z"

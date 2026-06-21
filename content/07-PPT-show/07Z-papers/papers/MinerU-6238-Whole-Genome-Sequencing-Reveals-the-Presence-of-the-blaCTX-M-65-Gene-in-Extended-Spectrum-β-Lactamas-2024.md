@@ -3,7 +3,7 @@ title: "Whole-Genome Sequencing Reveals the Presence of the blaCTX-M-65 Gene in 
 doi: "10.3390/antibiotics10030267"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/7IQGKFD9"
   zotero_pdf: "zotero://open-pdf/library/items/GIVUNHHV"

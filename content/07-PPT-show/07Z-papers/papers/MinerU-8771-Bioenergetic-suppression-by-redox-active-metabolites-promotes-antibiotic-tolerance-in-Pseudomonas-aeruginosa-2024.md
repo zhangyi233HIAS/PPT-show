@@ -3,7 +3,7 @@ title: "Bioenergetic suppression by redox-active metabolites promotes antibiotic
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/Q5AQFKM6"
   zotero_pdf: "zotero://open-pdf/library/items/I38BZDQV"

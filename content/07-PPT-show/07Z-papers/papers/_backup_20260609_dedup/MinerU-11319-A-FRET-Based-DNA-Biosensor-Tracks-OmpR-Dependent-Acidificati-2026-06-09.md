@@ -3,7 +3,7 @@ title: "A FRET-Based DNA Biosensor Tracks OmpR-Dependent Acidification of Salmon
 doi: "10.1371/journal.pbio.1002116"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/5WQBQ5DA"
   zotero_pdf: "zotero://open-pdf/library/items/48LSIQC2"

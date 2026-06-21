@@ -3,7 +3,7 @@ title: "The Interplay between Salmonella and Intestinal Innate Immune Cells in C
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/MSHAZR97"
   zotero_pdf: "zotero://open-pdf/library/items/R3VLJTQ4"

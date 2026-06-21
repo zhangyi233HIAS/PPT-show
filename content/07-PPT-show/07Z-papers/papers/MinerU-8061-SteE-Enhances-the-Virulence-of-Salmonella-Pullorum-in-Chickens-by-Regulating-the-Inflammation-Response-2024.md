@@ -3,7 +3,7 @@ title: "SteE Enhances the Virulence of Salmonella Pullorum in Chickens by Regula
 doi: "10.3389/fvets.2022.926505"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/PBQIYAYY"
   zotero_pdf: "zotero://open-pdf/library/items/9HK366C2"

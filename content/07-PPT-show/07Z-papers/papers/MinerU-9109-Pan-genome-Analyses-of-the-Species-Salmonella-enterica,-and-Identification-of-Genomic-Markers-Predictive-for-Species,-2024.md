@@ -3,7 +3,7 @@ title: "Pan-genome Analyses of the Species Salmonella enterica, and Identificati
 doi: "10.3389/fmicb.2017.01345"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WNVI4EEM"
   zotero_pdf: "zotero://open-pdf/library/items/RX3LXPE7"

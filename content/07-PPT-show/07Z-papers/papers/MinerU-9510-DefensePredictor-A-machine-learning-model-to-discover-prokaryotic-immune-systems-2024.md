@@ -3,7 +3,7 @@ title: "DefensePredictor: A machine learning model to discover prokaryotic immun
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/MAIU77W3"
   zotero_pdf: "zotero://open-pdf/library/items/W6H8K2PL"

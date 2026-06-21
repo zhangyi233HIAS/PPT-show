@@ -3,7 +3,7 @@ title: "Backtracking metabolic dynamics in single cells predicts bacterial repli
 doi: "10.1038/s41467-025-64225-0"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/EXA96GN9"
   zotero_pdf: "zotero://open-pdf/library/items/X7ZG3I6F"

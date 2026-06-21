@@ -3,7 +3,7 @@ title: "Antibiotic Resistance Profiles of Salmonella Recovered From Finishing Pi
 doi: "10.3389/fmicb.2019.01513"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/CE9J8KVH"
   zotero_pdf: "zotero://open-pdf/library/items/26V6WD9V"

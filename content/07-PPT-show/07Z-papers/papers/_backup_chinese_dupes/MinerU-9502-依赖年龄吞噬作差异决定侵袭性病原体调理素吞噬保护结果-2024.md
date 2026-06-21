@@ -3,7 +3,7 @@ title: "依赖年龄的吞噬作⽤差异决定了对侵袭性病原体的调理
 doi: "10.1016/j.immuni.2023.03.018"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/C9XCH2EE"

@@ -3,7 +3,7 @@ title: "Machine learning identifies signatures of host adaptation in the bacteri
 doi: "10.1371/journal.pgen.1007333"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/6CDQYZZA"
   zotero_pdf: "zotero://open-pdf/library/items/CUW3GPGH"

@@ -3,7 +3,7 @@ title: "Kmo restricts Salmonella in a whole organism infection model by promotin
 doi: "10.1371/journal.ppat.1013273"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/HSMCQMHF"
   zotero_pdf: "zotero://open-pdf/library/items/KTGJWR4T"

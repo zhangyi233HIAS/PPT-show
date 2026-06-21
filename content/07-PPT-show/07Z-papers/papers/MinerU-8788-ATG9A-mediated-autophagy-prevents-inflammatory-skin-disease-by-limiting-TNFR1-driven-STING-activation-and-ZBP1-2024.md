@@ -3,7 +3,7 @@ title: "ATG9A-mediated autophagy prevents inflammatory skin disease by limiting 
 doi: "10.1016/j.immuni.2025.09.019"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/C4YEP8RT"
   zotero_pdf: "zotero://open-pdf/library/items/WE3LV657"

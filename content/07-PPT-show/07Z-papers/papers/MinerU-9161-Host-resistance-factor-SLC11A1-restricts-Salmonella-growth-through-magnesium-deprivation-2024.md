@@ -3,7 +3,7 @@ title: "Host resistance factor SLC11A1 restricts Salmonella growth through magne
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/99FXT4VZ"
   zotero_pdf: "zotero://open-pdf/library/items/632YUEFS"

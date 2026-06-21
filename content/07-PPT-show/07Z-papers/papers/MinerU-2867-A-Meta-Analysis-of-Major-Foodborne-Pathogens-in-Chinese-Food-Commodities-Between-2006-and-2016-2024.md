@@ -3,7 +3,7 @@ title: "A Meta-Analysis of Major Foodborne Pathogens in Chinese Food Commodities
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/IVAGMZYU"
   zotero_pdf: "zotero://open-pdf/library/items/3ZUYBZYH"

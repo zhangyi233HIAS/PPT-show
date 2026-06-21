@@ -3,7 +3,7 @@ title: "In vitro invasion of laying hen ovarian follicles by Salmonella Enteriti
 doi: "10.3382/ps.2010-01182"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/89D4C4TF"
   zotero_pdf: "zotero://open-pdf/library/items/US6MR6TJ"

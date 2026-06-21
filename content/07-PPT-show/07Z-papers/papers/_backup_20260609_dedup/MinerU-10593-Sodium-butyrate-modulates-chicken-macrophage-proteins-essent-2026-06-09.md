@@ -3,7 +3,7 @@ title: "Sodium butyrate modulates chicken macrophage proteins essential for Salm
 doi: "10.1371/journal.pone.0250296"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/HU8PLNVX"
   zotero_pdf: "zotero://open-pdf/library/items/UB3XPKHD"

@@ -3,7 +3,7 @@ title: "Whole-Genome Analysis of Salmonella enterica Serovar Typhimurium T000240
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/3A6MBEQE"
   zotero_pdf: "zotero://open-pdf/library/items/W8EXCXZ8"

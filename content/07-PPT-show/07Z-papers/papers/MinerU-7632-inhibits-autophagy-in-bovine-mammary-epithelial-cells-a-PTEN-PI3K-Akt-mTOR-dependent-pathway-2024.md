@@ -3,7 +3,7 @@ title: "inhibits autophagy in bovine mammary epithelial cells  a PTEN/ PI3K-Akt-
 doi: "10.3389/fmicb.2022.935547"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/5MW98M6M"
   zotero_pdf: "zotero://open-pdf/library/items/TLCHUU2P"

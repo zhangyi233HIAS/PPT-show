@@ -3,7 +3,7 @@ title: "Salmonella Enteritidis Infection Slows Steroidogenesis and Impedes Cell 
 doi: "10.1637/10846-041414-Reg.1"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/T6CJVMP2"
   zotero_pdf: "zotero://open-pdf/library/items/DV4W2QWP"

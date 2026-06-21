@@ -3,7 +3,7 @@ title: "Stochastic colonization of hosts with a finite lifespan can drive indivi
 doi: "10.1371/journal.pcbi.1008392"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DLTN25VJ"
   zotero_pdf: "zotero://open-pdf/library/items/EGST6YMH"

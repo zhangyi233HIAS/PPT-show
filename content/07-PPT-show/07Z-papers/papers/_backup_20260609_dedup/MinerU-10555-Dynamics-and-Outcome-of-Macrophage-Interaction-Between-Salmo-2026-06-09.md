@@ -3,7 +3,7 @@ title: "Dynamics and Outcome of Macrophage Interaction Between Salmonella Gallin
 doi: "10.3389/fcimb.2019.00420"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/SHP3NSSN"
   zotero_pdf: "zotero://open-pdf/library/items/PJBBH69W"

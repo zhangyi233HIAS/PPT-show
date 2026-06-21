@@ -3,7 +3,7 @@ title: "Identification of two flagellar genes required for biofilm formation in 
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/7RCVEZN9"
   zotero_pdf: "zotero://open-pdf/library/items/FVNCM45T"

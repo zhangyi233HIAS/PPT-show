@@ -3,7 +3,7 @@ title: "Study of Salmonella Typhimurium Infection in Laying Hens"
 doi: "10.3389/fmicb.2016.00203"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/GEZW3MHU"
   zotero_pdf: "zotero://open-pdf/library/items/6CS5Y4US"

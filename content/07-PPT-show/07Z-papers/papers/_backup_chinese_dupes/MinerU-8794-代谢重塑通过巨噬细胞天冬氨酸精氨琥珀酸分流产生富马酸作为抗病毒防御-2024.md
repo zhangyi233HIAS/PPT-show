@@ -3,7 +3,7 @@ title: "代谢重塑通过巨噬细胞中的天冬氨酸-精氨琥珀酸分流�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/R6ZSMMQX"
   zotero_pdf: "zotero://open-pdf/library/items/9473KICS"

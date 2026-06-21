@@ -3,7 +3,7 @@ title: "Global Burden of Colistin-Resistant Bacteria: Mobilized Colistin Resista
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DN8EZPM4"
   zotero_pdf: "zotero://open-pdf/library/items/W73KXKNK"

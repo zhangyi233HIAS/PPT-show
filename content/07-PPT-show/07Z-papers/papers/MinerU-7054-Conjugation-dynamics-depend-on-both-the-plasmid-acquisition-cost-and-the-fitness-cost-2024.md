@@ -3,7 +3,7 @@ title: "Conjugation dynamics depend on both the plasmid acquisition cost and the
 doi: "10.15252/msb.20209913"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/P2ANQXP6"
   zotero_pdf: "zotero://open-pdf/library/items/VCH365VN"

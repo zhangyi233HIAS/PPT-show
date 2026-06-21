@@ -3,7 +3,7 @@ title: "全基因组抗生素-CRISPRi分析确定LiaR激活是使耐氟喹诺酮
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/VSNAHIGA"
   zotero_pdf: "zotero://open-pdf/library/items/YXKR25QD"

@@ -3,7 +3,7 @@ title: "Proteomic Analysis of Salmonella-modified Membranes Reveals Adaptations 
 doi: "10.1074/mcp.RA119.001841"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DHUN7LDS"
   zotero_pdf: "zotero://open-pdf/library/items/JWDYDUNN"

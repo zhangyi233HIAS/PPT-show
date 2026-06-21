@@ -3,7 +3,7 @@ title: "Cell Host & Microbe"
 doi: "10.1016/j.chom.2024.07.025"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/UAN5IFUA"
   zotero_pdf: "zotero://open-pdf/library/items/DCRDED8J"

@@ -3,7 +3,7 @@ title: "Loss of the PPE71-esxX-esxY-PPE38 locus drives adaptive transcriptional 
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/AI9837JT"
   zotero_pdf: "zotero://open-pdf/library/items/I83XD8RH"

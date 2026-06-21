@@ -3,7 +3,7 @@ title: "沙门氏菌与宿主之间的相互作用：细菌生存的机制与策
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/KSDDENHX"
   zotero_pdf: "zotero://open-pdf/library/items/C27A6VY5"

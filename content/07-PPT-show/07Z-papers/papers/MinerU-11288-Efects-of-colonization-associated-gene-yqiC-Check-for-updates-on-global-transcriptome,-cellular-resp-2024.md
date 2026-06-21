@@ -3,7 +3,7 @@ title: "Efects of colonization-associated gene yqiC Check for updates on globa
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/7MTR3NDU"
   zotero_pdf: "zotero://open-pdf/library/items/2UVY7WV5"

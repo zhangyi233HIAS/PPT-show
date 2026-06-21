@@ -3,7 +3,7 @@ title: "JCVI: A versatile toolkit for comparative genomics analysis"
 doi: "10.1002/imt2.211"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/75D3DGAS"
   zotero_pdf: "zotero://open-pdf/library/items/EBKGX2PF"

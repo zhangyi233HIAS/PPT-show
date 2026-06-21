@@ -3,7 +3,7 @@ title: "Deletions of ttrA and pduA genes in Salmonella enterica affect survival 
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/Q3NVE7M5"
   zotero_pdf: "zotero://open-pdf/library/items/7657Y95K"

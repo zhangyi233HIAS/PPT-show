@@ -3,7 +3,7 @@ title: "aroA基因缺陷型肠炎沙⻔氏菌鼠伤寒⾎清型不只是⼀种�
 doi: "10.1038/291238a0）以来，营养缺陷型ΔaroA突变通常被认为是安全的，并普遍⽤于减毒细菌菌株。在此，我们展⽰了⼀个显著发现，即aroA缺失会导致基因表达、代谢和细胞⽣理学的明显改变，从⽽导致沙⻔氏菌的免疫原性、毒⼒和佐剂潜⼒增加。这些结果表明，aroA缺陷型沙⻔氏菌菌株增强的免疫原性可能有利于优化细菌疫苗载体和免疫疗法。因此，我们证明了"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/HKTGCREE"

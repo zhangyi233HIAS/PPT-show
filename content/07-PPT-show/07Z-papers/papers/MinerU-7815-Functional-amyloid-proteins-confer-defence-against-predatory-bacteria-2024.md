@@ -3,7 +3,7 @@ title: "功能性淀粉样蛋白赋予对掠食性细菌的防御能力"
 doi: "10.1038/s41586-025-092莱德维纳1，瑞安·赛义格1.2，里卡多0卡拉莱1，A麦克斯韦·伯勒斯，阿列克谢·R麦克林1，阿什利·L·阿扎德²，莱拉·D·博尔哈·纳杰拉1，L·阿拉文德&亚伦·T·惠特利1区"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DIDH4PZB"
   zotero_pdf: "zotero://open-pdf/library/items/YXYECBLX"

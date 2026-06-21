@@ -3,7 +3,7 @@ title: "Salmonella Typhimurium impairs glycolysismediated acidification of phago
 doi: "10.1371/journal.ppat.1009943"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WVV7C2Y8"
   zotero_pdf: "zotero://open-pdf/library/items/B3L9DVPA"

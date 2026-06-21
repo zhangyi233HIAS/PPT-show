@@ -3,7 +3,7 @@ title: "PPE71-esxX-esxY-PPE38基因座的缺失驱动结核分枝杆菌2型的�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/RUEIZ2PT"

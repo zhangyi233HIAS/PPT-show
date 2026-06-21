@@ -3,7 +3,7 @@ title: "在沙门氏菌血清鼠伤寒沙门氏菌中需要的两个鞭毛基因
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/7RCVEZN9"
   zotero_pdf: "zotero://open-pdf/library/items/EBVPPSA7"

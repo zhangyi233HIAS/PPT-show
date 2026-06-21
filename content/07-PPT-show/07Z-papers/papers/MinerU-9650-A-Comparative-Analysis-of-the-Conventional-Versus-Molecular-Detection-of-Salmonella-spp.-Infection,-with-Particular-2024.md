@@ -3,7 +3,7 @@ title: "A Comparative Analysis of the Conventional Versus Molecular Detection of
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/JGWI2869"
   zotero_pdf: "zotero://open-pdf/library/items/XIAVU2A6"

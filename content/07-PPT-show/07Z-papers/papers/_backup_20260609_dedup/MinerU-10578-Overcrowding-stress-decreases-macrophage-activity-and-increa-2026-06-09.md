@@ -3,7 +3,7 @@ title: "Overcrowding stress decreases macrophage activity and increases Salmonel
 doi: "10.1080/03079457.2013.874006"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/GIU3D5JY"
   zotero_pdf: "zotero://open-pdf/library/items/C8ZUBCEE"

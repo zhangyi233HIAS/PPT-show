@@ -3,7 +3,7 @@ title: "Dual Transcriptomic Analyses Unveil Host–Pathogen Interactions Between
 doi: "10.3389/fmicb.2021.705712"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/P9K5G2YQ"
   zotero_pdf: "zotero://open-pdf/library/items/8AU7U3X8"

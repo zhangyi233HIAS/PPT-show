@@ -3,7 +3,7 @@ title: "Stimulation of Toll-Like Receptor 3 Diminishes Intracellular Growth of S
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/PDWUNP98"
   zotero_pdf: "zotero://open-pdf/library/items/9EGNU7HE"

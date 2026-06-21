@@ -3,7 +3,7 @@ title: "PATHOLOGY OF FOWL PARATYPHOID AND MOLECULAR DETECTION OF ITS PATHOGEN IN
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/GFPXM8WJ"
   zotero_pdf: "zotero://open-pdf/library/items/BJY94P6T"

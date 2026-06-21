@@ -3,7 +3,7 @@ title: "Comparative functional analysis of macrophage phagocytosis in Dagu chick
 doi: "10.3389/fimmu.2023.1064461"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/NRUY5H2L"
   zotero_pdf: "zotero://open-pdf/library/items/C9H33SCH"

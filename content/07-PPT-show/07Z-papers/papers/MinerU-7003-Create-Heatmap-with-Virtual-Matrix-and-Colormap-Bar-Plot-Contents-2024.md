@@ -3,7 +3,7 @@ title: "Create Heatmap with Virtual Matrix and Colormap Bar Plot Contents"
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/JSTZ7KTR"
   zotero_pdf: "zotero://open-pdf/library/items/9BHHPYLZ"

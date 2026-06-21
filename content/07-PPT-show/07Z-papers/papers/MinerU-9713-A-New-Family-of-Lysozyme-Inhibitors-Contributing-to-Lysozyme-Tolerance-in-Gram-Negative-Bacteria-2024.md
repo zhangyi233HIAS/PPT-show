@@ -3,7 +3,7 @@ title: "A New Family of Lysozyme Inhibitors Contributing to Lysozyme Tolerance i
 doi: "10.1371/journal.ppat.1000019"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/UQQPJMUZ"
   zotero_pdf: "zotero://open-pdf/library/items/PRGQ2NXM"

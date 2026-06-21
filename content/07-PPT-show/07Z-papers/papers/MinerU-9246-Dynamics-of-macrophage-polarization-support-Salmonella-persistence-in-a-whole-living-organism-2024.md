@@ -3,7 +3,7 @@ title: "Dynamics of macrophage polarization support Salmonella persistence in a 
 doi: "10.1101/2023.05.09.539693"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/K8ZDUL6Z"
   zotero_pdf: "zotero://open-pdf/library/items/BYXPLTPL"

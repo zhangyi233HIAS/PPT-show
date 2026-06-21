@@ -3,7 +3,7 @@ title: "Accuracy of Different Shoulder Scan Examination for Diagnosis of Rotator
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/EM45E39Z"
   zotero_pdf: "zotero://open-pdf/library/items/6ILZIBC4"

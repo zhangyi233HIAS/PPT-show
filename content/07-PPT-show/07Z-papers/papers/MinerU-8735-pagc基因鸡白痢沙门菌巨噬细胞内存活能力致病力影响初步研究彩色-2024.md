@@ -3,7 +3,7 @@ title: "pagc基因对鸡白痢沙门菌巨噬细胞内存活能力及致病力�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/BVXCI27N"

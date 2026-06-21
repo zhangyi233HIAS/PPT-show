@@ -3,7 +3,7 @@ title: "Genome-Wide Fitness and Genetic Interactions Determined by Tn-seq, a Hig
 doi: "10.1002/0471142727.mb0716s106"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/GASRH7IE"
   zotero_pdf: "zotero://open-pdf/library/items/9WWR85TN"

@@ -3,7 +3,7 @@ title: "Effect of non-pharmaceutical interventions to contain COVID-19 in China"
 doi: "10.1038/s41586-020-2293-x"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/ES8LWTXK"
   zotero_pdf: "zotero://open-pdf/library/items/A69SN5PE"

@@ -3,7 +3,7 @@ title: "Seed-borne bacteria drive wheat rhizosphere microbiome assembly via nich
 doi: "10.1038/s41564-025-01973-1"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/FJA7TJ6P"
   zotero_pdf: "zotero://open-pdf/library/items/4ZLGMALB"

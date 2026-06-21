@@ -3,7 +3,7 @@ title: "Macrophage Polarization Modulated by Porcine Circovirus Type 2 Facilitat
 doi: "10.3389/fimmu.2021.688294"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/CVM22BTC"
   zotero_pdf: "zotero://open-pdf/library/items/MG7HG2A5"

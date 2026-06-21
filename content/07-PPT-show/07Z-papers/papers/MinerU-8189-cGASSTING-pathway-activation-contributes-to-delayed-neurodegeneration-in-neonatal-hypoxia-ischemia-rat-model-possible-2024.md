@@ -3,7 +3,7 @@ title: "cGAS/STING pathway activation contributes to delayed neurodegeneration i
 doi: "10.1007/s12035-020-01904-7"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/8HAT6VWX"
   zotero_pdf: "zotero://open-pdf/library/items/4RIJF6X9"

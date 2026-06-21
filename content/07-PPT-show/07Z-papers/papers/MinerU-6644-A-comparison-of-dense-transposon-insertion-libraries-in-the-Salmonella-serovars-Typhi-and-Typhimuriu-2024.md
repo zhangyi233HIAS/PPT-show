@@ -3,7 +3,7 @@ title: "A comparison of dense transposon insertion libraries in the Salmonella s
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/ZGUFFQTP"
   zotero_pdf: "zotero://open-pdf/library/items/LANZT463"

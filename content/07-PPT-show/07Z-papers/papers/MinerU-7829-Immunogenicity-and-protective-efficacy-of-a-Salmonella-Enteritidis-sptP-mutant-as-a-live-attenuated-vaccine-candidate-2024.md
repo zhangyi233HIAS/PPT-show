@@ -3,7 +3,7 @@ title: "Immunogenicity and protective efficacy of a Salmonella Enteritidis sptP 
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/Y8VAVK5G"
   zotero_pdf: "zotero://open-pdf/library/items/V8KPWGCA"

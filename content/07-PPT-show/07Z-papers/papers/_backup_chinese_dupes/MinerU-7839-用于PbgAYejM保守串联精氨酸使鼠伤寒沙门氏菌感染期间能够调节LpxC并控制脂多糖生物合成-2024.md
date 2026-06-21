@@ -3,7 +3,7 @@ title: "用于PbgA/YejM的保守串联精氨酸使鼠伤寒沙门氏菌在感染
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/US8S39FP"
   zotero_pdf: "zotero://open-pdf/library/items/ZQ483L59"

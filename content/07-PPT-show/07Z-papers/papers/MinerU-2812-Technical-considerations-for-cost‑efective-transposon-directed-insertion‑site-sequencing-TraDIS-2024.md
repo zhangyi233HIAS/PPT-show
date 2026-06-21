@@ -3,7 +3,7 @@ title: "Technical considerations for cost‑efective transposon directed inserti
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/FE8JQL6S"
   zotero_pdf: "zotero://open-pdf/library/items/3RXRL5V3"

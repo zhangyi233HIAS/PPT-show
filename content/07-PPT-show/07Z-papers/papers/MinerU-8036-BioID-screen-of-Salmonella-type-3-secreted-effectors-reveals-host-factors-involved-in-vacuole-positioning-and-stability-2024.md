@@ -3,7 +3,7 @@ title: "BioID screen of Salmonella type 3 secreted effectors reveals host factor
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/X7FNIHZC"
   zotero_pdf: "zotero://open-pdf/library/items/T9WZIM2D"

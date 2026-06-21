@@ -3,7 +3,7 @@ title: "Mode of vertical transmission of Salmonella enterica sub. enterica serov
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/VPCIN95K"
   zotero_pdf: "zotero://open-pdf/library/items/UZRSAVU8"

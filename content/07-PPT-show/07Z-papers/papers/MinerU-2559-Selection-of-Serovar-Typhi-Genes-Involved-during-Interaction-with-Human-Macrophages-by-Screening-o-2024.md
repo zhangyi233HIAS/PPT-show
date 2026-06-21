@@ -3,7 +3,7 @@ title: "Selection of   Serovar Typhi Genes Involved during Interaction with Huma
 doi: "10.1371/journal.pone.0036643"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/SJ6Q4YJY"
   zotero_pdf: "zotero://open-pdf/library/items/HD2YAZII"

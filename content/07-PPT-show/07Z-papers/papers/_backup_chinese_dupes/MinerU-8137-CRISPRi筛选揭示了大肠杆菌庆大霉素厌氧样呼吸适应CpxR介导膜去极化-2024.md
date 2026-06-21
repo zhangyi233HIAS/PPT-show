@@ -3,7 +3,7 @@ title: "CRISPRi筛选揭示了大肠杆菌对庆大霉素的厌氧样呼吸适�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/GPN9Y28W"
   zotero_pdf: "zotero://open-pdf/library/items/XK39T7VT"

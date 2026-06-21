@@ -3,7 +3,7 @@ title: "Quorum sensing inhibits Type III-A CRISPR-Cas system activity through re
 doi: "10.1101/2023.01.17.524377"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/JQ4QT6VQ"
   zotero_pdf: "zotero://open-pdf/library/items/8VWMU9TJ"

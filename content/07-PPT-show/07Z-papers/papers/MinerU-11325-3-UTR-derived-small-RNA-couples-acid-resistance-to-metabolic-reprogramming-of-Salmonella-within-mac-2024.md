@@ -3,7 +3,7 @@ title: "3- UTR-derived small RNA couples acid resistance to metabolic reprogramm
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/XQ8PPI2R"
   zotero_pdf: "zotero://open-pdf/library/items/KAWHQEJ2"

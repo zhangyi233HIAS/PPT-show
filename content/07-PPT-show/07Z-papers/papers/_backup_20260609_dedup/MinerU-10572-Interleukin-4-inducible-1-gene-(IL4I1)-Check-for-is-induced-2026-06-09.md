@@ -3,7 +3,7 @@ title: "Interleukin 4 inducible 1 gene (IL4I1) Check for is induced in chicken
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/NAGKD9I5"
   zotero_pdf: "zotero://open-pdf/library/items/ILYZG674"

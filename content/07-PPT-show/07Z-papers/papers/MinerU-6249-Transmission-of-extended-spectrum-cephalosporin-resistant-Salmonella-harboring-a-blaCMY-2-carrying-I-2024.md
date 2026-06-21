@@ -3,7 +3,7 @@ title: "Transmission of extended-spectrum cephalosporin-resistant Salmonella har
 doi: "10.1292/jvms.21-0085"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/3MXWUR4L"
   zotero_pdf: "zotero://open-pdf/library/items/CJ2R3UM7"

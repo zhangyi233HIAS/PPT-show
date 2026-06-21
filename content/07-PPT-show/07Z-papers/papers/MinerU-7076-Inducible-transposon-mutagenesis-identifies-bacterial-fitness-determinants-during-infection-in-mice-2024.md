@@ -3,7 +3,7 @@ title: "Inducible transposon mutagenesis identifies bacterial fitness determinan
 doi: "10.1038/s41564-025-01975-z"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WTAXBTRS"
   zotero_pdf: "zotero://open-pdf/library/items/J8GEMULH"

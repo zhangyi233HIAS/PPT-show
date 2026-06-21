@@ -3,7 +3,7 @@ title: "How the PhoP/PhoQ System Controls Virulence and $M g ^ { 2 + }$ Homeosta
 doi: "10.1128/MMBR.00176-20"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/29PVQHEF"
   zotero_pdf: "zotero://open-pdf/library/items/IU3GZB9I"

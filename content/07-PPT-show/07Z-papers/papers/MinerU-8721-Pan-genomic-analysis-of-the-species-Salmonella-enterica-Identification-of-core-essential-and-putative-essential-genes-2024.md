@@ -3,7 +3,7 @@ title: "Pan-genomic analysis of the species Salmonella enterica: Identification 
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WZJD9IQZ"
   zotero_pdf: "zotero://open-pdf/library/items/KPKN58H3"

@@ -3,7 +3,7 @@ title: "Evolution of Salmonella-Host Cell Interactions through a Dynamic Bacteri
 doi: "10.3389/fcimb.2017.00428"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/6ZYUWKCP"
   zotero_pdf: "zotero://open-pdf/library/items/RLKJTYE6"

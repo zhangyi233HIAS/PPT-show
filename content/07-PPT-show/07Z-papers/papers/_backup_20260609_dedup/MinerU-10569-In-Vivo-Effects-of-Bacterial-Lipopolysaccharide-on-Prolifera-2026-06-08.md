@@ -3,7 +3,7 @@ title: "In Vivo Effects of Bacterial Lipopolysaccharide on Proliferation of Macr
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/38MXBW68"
   zotero_pdf: "zotero://open-pdf/library/items/276BWW5M"

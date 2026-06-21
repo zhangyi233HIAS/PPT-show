@@ -3,7 +3,7 @@ title: "Orthogonal CRISPR-associated transposases for parallel and multiplexed c
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/QMG9HUML"
   zotero_pdf: "zotero://open-pdf/library/items/WZUEHU8S"

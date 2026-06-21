@@ -3,7 +3,7 @@ title: "Quantitative proteomics and phosphoproteomics elucidate the molecular me
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/M7HXHFCQ"
   zotero_pdf: "zotero://open-pdf/library/items/888XFCUF"

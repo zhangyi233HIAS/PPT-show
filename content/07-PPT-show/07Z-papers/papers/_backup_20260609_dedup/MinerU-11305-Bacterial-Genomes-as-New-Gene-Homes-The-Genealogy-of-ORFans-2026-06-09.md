@@ -3,7 +3,7 @@ title: "Bacterial Genomes as New Gene Homes: The Genealogy of ORFans in E. coli"
 doi: "10.1101/gr.2231904"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DQ5MGF4J"
   zotero_pdf: "zotero://open-pdf/library/items/WCAY4TMU"

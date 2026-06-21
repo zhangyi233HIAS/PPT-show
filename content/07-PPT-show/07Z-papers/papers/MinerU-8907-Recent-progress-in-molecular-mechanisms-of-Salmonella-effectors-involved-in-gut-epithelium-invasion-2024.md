@@ -3,7 +3,7 @@ title: "Recent progress in molecular mechanisms of Salmonella effectors involved
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WZTIE57U"
   zotero_pdf: "zotero://open-pdf/library/items/Y3GU2ZN4"

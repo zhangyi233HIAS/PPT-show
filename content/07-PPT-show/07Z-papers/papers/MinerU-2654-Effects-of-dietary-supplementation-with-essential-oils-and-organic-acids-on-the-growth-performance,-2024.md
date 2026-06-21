@@ -3,7 +3,7 @@ title: "Effects of dietary supplementation with essential oils and organic acids
 doi: "10.1093/jas/skz039"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/DLHNWLJ8"
   zotero_pdf: "zotero://open-pdf/library/items/V4Z8MC3F"

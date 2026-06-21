@@ -3,7 +3,7 @@ title: "Combined application of clip and endoloop for the prevention of postpoly
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/MSZAUA5E"
   zotero_pdf: "zotero://open-pdf/library/items/6BKNPJ4Z"

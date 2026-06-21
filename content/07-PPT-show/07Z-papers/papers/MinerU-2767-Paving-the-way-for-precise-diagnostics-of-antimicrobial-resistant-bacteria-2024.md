@@ -3,7 +3,7 @@ title: "Paving the way for precise diagnostics of antimicrobial resistant bacter
 doi: "10.3389/fmolb.2022.976705"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/ZA2LPUWP"
   zotero_pdf: "zotero://open-pdf/library/items/L3KP6D4S"

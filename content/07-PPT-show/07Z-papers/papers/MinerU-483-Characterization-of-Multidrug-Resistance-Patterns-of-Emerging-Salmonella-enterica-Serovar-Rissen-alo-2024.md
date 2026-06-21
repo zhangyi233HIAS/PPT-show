@@ -3,7 +3,7 @@ title: "Characterization of Multidrug Resistance Patterns of Emerging Salmonella
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/K3ASYGVQ"
   zotero_pdf: "zotero://open-pdf/library/items/KKNHQ3A5"

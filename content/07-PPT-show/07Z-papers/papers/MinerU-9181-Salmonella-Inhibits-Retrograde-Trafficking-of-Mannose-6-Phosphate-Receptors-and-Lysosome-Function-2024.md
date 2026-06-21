@@ -3,7 +3,7 @@ title: "Salmonella Inhibits Retrograde Trafficking of Mannose-6-Phosphate Recept
 doi: "10.1126/science.1229224"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/ZQLCK4MP"
   zotero_pdf: "zotero://open-pdf/library/items/GTIIGMA6"

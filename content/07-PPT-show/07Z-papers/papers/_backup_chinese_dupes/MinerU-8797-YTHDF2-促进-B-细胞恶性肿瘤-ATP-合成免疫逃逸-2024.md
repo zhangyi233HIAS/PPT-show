@@ -3,7 +3,7 @@ title: "YTHDF2 促进 B 细胞恶性肿瘤中的 ATP 合成和免疫逃逸"
 doi: "10.1016/j.cell.2024.11.007"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/RX3Q278T"
   zotero_pdf: "zotero://open-pdf/library/items/6PE83PVB"

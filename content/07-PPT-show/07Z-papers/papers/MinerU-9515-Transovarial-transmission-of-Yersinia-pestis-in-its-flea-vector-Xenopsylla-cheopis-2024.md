@@ -3,7 +3,7 @@ title: "Transovarial transmission of Yersinia pestis in its flea vector Xenopsyl
 doi: "10.1038/s41467-024-51668-0"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/H42M36HD"
   zotero_pdf: "zotero://open-pdf/library/items/FBYVWL43"

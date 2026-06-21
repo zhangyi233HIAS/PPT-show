@@ -3,7 +3,7 @@ title: "Cyclic-di-GMP signalling and biofilm-related properties of the Shiga tox
 doi: "10.15252/emmm.201404309"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/UNKYIRMP"
   zotero_pdf: "zotero://open-pdf/library/items/IEYAFA5G"

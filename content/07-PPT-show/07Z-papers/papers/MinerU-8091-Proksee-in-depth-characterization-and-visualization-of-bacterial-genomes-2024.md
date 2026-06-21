@@ -1,9 +1,9 @@
 ---
-title: "Proksee：{v\\*} 深入 特征 和 可视化 细菌 基因组"
+title: "Proksee：{v\*} 深入 特征 和 可视化 细菌 基因组"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/AUU4VMUC"
   zotero_pdf: "zotero://open-pdf/library/items/DCRZTYAT"

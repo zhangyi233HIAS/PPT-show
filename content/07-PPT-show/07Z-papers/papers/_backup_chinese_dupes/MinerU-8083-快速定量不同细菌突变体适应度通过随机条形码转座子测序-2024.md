@@ -3,7 +3,7 @@ title: "快速定量不同细菌中突变体适应度通过随机条形码转座
 doi: "10.1128/mBio.00306-15.编辑"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/S7EEJQHE"
   zotero_pdf: "zotero://open-pdf/library/items/SUUF7FZX"

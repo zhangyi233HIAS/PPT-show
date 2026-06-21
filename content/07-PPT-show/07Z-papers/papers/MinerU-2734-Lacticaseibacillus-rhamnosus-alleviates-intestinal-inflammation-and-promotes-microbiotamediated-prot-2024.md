@@ -3,7 +3,7 @@ title: "Lacticaseibacillus rhamnosus alleviates intestinal inflammation and prom
 doi: "10.3389/fimmu.2022.973224"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/SZBNDQN3"
   zotero_pdf: "zotero://open-pdf/library/items/6MUVADME"

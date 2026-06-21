@@ -3,7 +3,7 @@ title: "Probiotic Escherichia coli Nissle 1917 protect chicks from damage caused
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/2QNISBQG"
   zotero_pdf: "zotero://open-pdf/library/items/99AX5LSS"

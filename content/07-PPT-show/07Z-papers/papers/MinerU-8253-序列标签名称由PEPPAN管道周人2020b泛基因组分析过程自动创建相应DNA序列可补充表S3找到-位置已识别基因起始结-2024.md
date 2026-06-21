@@ -1,9 +1,9 @@
 ---
-title: "序列标签：名称由PEPPAN管道（周等人，2020b）在泛基因组分析过程中自动创建。相应的DNA序列可在补充表S3中找到.\\* 位置：已识别基因的起始和结束位置，以S进行索引。Gallinarum参考"
+title: "序列标签：名称由PEPPAN管道（周等人，2020b）在泛基因组分析过程中自动创建。相应的DNA序列可在补充表S3中找到.\* 位置：已识别基因的起始和结束位置，以S进行索引。Gallinarum参考"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/HF3DM2GS"

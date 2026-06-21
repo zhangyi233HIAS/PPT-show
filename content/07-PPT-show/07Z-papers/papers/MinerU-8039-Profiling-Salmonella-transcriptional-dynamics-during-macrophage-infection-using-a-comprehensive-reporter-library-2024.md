@@ -3,7 +3,7 @@ title: "Profiling Salmonella transcriptional dynamics during macrophage infectio
 doi: "10.1038/s41564-025-01953-5"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/GZDDCNDN"
   zotero_pdf: "zotero://open-pdf/library/items/7QPG7A34"

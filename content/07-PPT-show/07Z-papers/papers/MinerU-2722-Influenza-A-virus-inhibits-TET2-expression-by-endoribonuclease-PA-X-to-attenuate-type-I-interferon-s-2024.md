@@ -3,7 +3,7 @@ title: "Influenza A virus inhibits TET2 expression by endoribonuclease PA-X to a
 doi: "10.1371/journal.ppat.1011550"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/MT8LYM7R"
   zotero_pdf: "zotero://open-pdf/library/items/LVYBY5IH"

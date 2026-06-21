@@ -3,7 +3,7 @@ title: "Corrigendum: Antimicrobial resistance and genomic characterization of Es
 doi: "10.3389/fmicb.2023.1102931"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WB9Y47AE"
   zotero_pdf: "zotero://open-pdf/library/items/2AD3NBHL"

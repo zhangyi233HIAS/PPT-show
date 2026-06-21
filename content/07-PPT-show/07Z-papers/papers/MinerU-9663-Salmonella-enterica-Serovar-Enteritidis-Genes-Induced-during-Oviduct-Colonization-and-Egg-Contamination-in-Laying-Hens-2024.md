@@ -3,7 +3,7 @@ title: "Salmonella enterica Serovar Enteritidis Genes Induced during Oviduct Col
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/RYZWIT49"
   zotero_pdf: "zotero://open-pdf/library/items/5H7M68WE"

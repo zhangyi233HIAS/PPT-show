@@ -3,7 +3,7 @@ title: "Novel method to recover Salmonella enterica cells for Tn-Seq approaches 
 doi: "10.1016/j.mimet.2023.106724ff"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/6XM9GI5R"
   zotero_pdf: "zotero://open-pdf/library/items/BDP2RGZH"

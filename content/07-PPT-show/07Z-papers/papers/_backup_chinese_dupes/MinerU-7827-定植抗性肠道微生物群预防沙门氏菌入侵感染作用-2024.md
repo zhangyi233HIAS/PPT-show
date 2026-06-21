@@ -3,7 +3,7 @@ title: "定植抗性：肠道微生物群在预防沙门氏菌入侵和感染中
 doi: "10.1080/19490976.2024.2424914"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/WL79XIZY"
   zotero_pdf: "zotero://open-pdf/library/items/XYLWPQEP"

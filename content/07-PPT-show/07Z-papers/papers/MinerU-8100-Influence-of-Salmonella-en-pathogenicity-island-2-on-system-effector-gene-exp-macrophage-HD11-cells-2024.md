@@ -3,7 +3,7 @@ title: "Influence of Salmonella en pathogenicity island 2 on system effector gen
 doi: "10.1080/03079457.2016.1247"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/NJ4EAK58"
   zotero_pdf: "zotero://open-pdf/library/items/ZTCQ2CQB"

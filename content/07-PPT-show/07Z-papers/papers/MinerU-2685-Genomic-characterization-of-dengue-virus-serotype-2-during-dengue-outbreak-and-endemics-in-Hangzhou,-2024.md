@@ -3,7 +3,7 @@ title: "Genomic characterization of dengue virus serotype 2 during dengue outbre
 doi: "10.3389/fmicb.2023.1245416"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/TJUV6K9P"
   zotero_pdf: "zotero://open-pdf/library/items/M5IRXZBD"

@@ -3,7 +3,7 @@ title: "Gut inflammation provides a respiratory electron acceptor for Salmonella
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, "#note"]
+tags: [zotero, paper-note, #note]
 source:
   zotero_item: "zotero://select/items/0/YNB9VWYT"
   zotero_pdf: "zotero://open-pdf/library/items/J4KKW5VY"

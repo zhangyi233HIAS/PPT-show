@@ -15,9 +15,6 @@ https://www.ncbi.nlm.nih.gov/nuccore/NC_016810.1?report=graph
 - [ ] SPI KEGG
 - [ ] 假基因SL1344添加的
 - [ ] 位置 参考放置
-- [ ] 
-- [ ] 
-- [ ] 
 - [ ] 按照顺序 12.1  12.3  序列---基因名称 的 
 - [ ] 冗余的 基因组 dna
 - [ ] 我的序列基因名称

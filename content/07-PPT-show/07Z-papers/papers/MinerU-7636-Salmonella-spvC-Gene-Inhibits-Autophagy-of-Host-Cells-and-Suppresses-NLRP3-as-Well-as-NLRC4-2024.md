@@ -16,12 +16,12 @@ source:
 
 ## 📎 快捷链接
 
-| 类型 | 链接 |
-|------|------|
-| Zotero 条目 | [打开条目](zotero://select/items/0/SC7C7H9X) |
-| Zotero PDF | [打开PDF](zotero://open-pdf/library/items/8ELLJB44) |
-| MinerU 解析 | [查看解析](file:///G:/zotero/llm-for-zotero-mineru/7636/full.md) |
-| DOI | [在线查看](https://doi.org/10.3389/fimmu.2021.639019) |
+| 类型         | 链接                                                           |
+| ---------- | ------------------------------------------------------------ |
+| Zotero 条目  | [打开条目](zotero://select/items/0/SC7C7H9X)                     |
+| Zotero PDF | [打开PDF](zotero://open-pdf/library/items/8ELLJB44)            |
+| MinerU 解析  | [查看解析](file:///G:/zotero/llm-for-zotero-mineru/7636/full.md) |
+| DOI        | [在线查看](https://doi.org/10.3389/fimmu.2021.639019)            |
 
 ## 一、核心概念与研究背景
 - **一句话总结**：研究发现沙门氏菌的毒力因子SpvC通过抑制宿主细胞的自噬过程，并下调关键免疫受体NLRP3和NLRC4的蛋白水平，从而帮助细菌逃逸宿主免疫、促进感染。

@@ -16,12 +16,12 @@ source:
 
 ## 📎 快捷链接
 
-| 类型 | 链接 |
-|------|------|
-| Zotero 条目 | [打开条目](zotero://select/items/0/DW43VJ59) |
-| Zotero PDF | [打开PDF](zotero://open-pdf/library/items/IZVBYSPA) |
-| MinerU 解析 | [查看解析](file:///G:/zotero/llm-for-zotero-mineru/7276/full.md) |
-| DOI | [在线查看](https://doi.org/10.1111/pbi.13504) |
+| 类型         | 链接                                                           |
+| ---------- | ------------------------------------------------------------ |
+| Zotero 条目  | [打开条目](zotero://select/items/0/DW43VJ59)                     |
+| Zotero PDF | [打开PDF](zotero://open-pdf/library/items/IZVBYSPA)            |
+| MinerU 解析  | [查看解析](file:///G:/zotero/llm-for-zotero-mineru/7276/full.md) |
+| DOI        | [在线查看](https://doi.org/10.1111/pbi.13504)                    |
 
 ## 一、核心概念与研究背景
 - 一句话总结：本研究旨在通过整合计算生物学（网络分析、通路富集）与实验验证（基因表达分析），系统性地鉴定并验证鸡在抵抗沙门氏菌感染过程中起关键作用的免疫基因和通路。

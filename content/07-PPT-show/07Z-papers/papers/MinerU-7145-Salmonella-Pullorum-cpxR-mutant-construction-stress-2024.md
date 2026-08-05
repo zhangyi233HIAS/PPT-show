@@ -3,7 +3,7 @@ title: "鸡白痢沙门菌cpxR基因缺失株的构建及体外应激试验"
 doi: "10.3969/j.issn.1008-0589.201801017"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/B6YCT4HX"

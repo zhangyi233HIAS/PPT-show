@@ -3,7 +3,7 @@ title: "Shedding light on bacteria–host interactions with the aid of TnSeq app
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/Z3RZZXWN"
   zotero_pdf: "zotero://open-pdf/library/items/CUVBZMAK"

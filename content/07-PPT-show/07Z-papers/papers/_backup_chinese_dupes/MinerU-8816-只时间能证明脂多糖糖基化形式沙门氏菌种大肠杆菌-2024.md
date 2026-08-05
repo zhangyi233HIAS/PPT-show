@@ -3,7 +3,7 @@ title: "只有时间能证明：脂多糖糖基化形式和沙门氏菌种及大
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/EYNJVDLJ"
   zotero_pdf: "zotero://open-pdf/library/items/CFT8G9GW"

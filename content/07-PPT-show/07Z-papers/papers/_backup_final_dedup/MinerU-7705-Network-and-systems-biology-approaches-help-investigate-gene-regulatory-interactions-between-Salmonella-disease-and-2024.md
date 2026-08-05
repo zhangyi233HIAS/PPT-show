@@ -3,7 +3,7 @@ title: "网络和系统生物学方法有助于研究基因调节性相互作用
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/DW43VJ59"
   zotero_pdf: "zotero://open-pdf/library/items/3PVYSRIP"

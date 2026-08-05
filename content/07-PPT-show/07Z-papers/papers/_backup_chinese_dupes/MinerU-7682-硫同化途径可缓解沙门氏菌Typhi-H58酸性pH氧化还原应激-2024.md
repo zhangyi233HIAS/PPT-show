@@ -3,7 +3,7 @@ title: "硫同化途径可缓解沙门氏菌Typhi H58中酸性pH的氧化还原�
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/N8LBZZ5P"
   zotero_pdf: "zotero://open-pdf/library/items/P262SVXA"

@@ -1,9 +1,9 @@
 ---
-title: "The Salmonella pathogenicity island 13 contributes to pathogenesis in streptomycin pre-treated mice "
+title: "The Salmonella pathogenicity island 13 contributes topathogenesis instreptomycin pre-treated mice "
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XFNII7XC"
   zotero_pdf: "zotero://open-pdf/library/items/5PSTLQ5S"

@@ -3,7 +3,7 @@ title: "The genomic signatures of Shigella evolution, adaptation and geographica
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XKRDMJ7T"
   zotero_pdf: "zotero://open-pdf/library/items/7TP6EQV5"

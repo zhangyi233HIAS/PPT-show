@@ -3,7 +3,7 @@ title: "Transposon mutagenesis reveals differential essential pathways in model 
 doi: "10.1101/2023.10.03.556772"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/6R53LMZ4"
   zotero_pdf: "zotero://open-pdf/library/items/ETFCUUME"

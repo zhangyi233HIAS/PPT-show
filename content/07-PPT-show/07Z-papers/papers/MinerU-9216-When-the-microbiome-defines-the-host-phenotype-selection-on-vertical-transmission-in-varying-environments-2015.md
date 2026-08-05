@@ -3,7 +3,7 @@ title: "When the microbiome defines the host phenotype: selection on vertical tr
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/UFU5HBWB"
   zotero_pdf: "zotero://open-pdf/library/items/J5FGP4YP"

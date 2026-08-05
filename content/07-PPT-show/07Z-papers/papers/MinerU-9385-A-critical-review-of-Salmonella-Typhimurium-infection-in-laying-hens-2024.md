@@ -3,7 +3,7 @@ title: "A critical review of Salmonella Typhimurium infection in laying hens"
 doi: "10.1080/03079457.2011.606799"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/YWYSYZMK"
   zotero_pdf: "zotero://open-pdf/library/items/IPKZYHJ7"

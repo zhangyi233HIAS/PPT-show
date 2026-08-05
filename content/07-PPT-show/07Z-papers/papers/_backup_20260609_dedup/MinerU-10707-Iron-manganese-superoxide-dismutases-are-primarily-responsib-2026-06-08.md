@@ -3,7 +3,7 @@ title: "Iron-manganese superoxide dismutases are primarily responsible for antio
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/L4G8XB8E"
   zotero_pdf: "zotero://open-pdf/library/items/U64K6F7N"

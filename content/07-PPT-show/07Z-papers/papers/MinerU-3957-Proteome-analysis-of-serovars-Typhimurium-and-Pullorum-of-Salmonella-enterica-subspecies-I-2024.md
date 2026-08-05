@@ -3,7 +3,7 @@ title: "Proteome analysis of serovars Typhimurium and Pullorum of Salmonella ent
 doi: "10.1186/1471-2180-5-42"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/IMGKFYJI"
   zotero_pdf: "zotero://open-pdf/library/items/DUCMB4DU"

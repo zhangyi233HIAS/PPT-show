@@ -3,7 +3,7 @@ title: "Exosomes Transmit Viral Genetic Information and Immune Signals may cause
 doi: "10.7150/ijbs.35839"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/H2MEUMWJ"
   zotero_pdf: "zotero://open-pdf/library/items/XM8IKU6G"

@@ -1,9 +1,9 @@
 ---
-title: "3D exploration of gene expression in chicken embryos through combined RNA fuorescence in situ hybrid"
+title: "3D exploration ofgene expression inchicken embryos throughcombined RNA fuorescence insitu hybrid"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/LDZNSMQY"
   zotero_pdf: "zotero://open-pdf/library/items/8EJMGBD7"

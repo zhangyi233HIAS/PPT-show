@@ -3,7 +3,7 @@ title: "HEATR3识别膜破裂并促进对沙门氏菌入侵的异源吞噬作用
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XLW4XN7Y"
   zotero_pdf: "zotero://open-pdf/library/items/R26H4MV6"

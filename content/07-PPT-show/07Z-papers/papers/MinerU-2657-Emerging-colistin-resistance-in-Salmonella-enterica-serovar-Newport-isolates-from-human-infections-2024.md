@@ -3,7 +3,7 @@ title: "Emerging colistin resistance in Salmonella enterica serovar Newport isol
 doi: "10.1080/22221751.2020.1733439"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/EV7GWGIG"
   zotero_pdf: "zotero://open-pdf/library/items/DUPYBE3R"

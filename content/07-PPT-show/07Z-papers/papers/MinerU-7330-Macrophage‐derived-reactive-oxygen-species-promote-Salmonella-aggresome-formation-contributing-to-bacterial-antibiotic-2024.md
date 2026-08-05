@@ -3,7 +3,7 @@ title: "Macrophage‐derived reactive oxygen species promote Salmonella aggresom
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/IH6R5ZV9"
   zotero_pdf: "zotero://open-pdf/library/items/QW35ZJ8N"

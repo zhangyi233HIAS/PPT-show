@@ -3,7 +3,7 @@ title: "A pathogen-specific isotope tracing approach reveals metabolic activitie
 doi: "10.1371/journal.pbio.3002198"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/BT3QAZ3R"
   zotero_pdf: "zotero://open-pdf/library/items/CEWFHH9N"

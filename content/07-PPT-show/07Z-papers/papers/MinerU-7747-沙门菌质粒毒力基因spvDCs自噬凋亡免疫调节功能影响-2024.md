@@ -3,7 +3,7 @@ title: "沙门菌质粒毒力基因spv对DCs自噬、凋亡和免疫调节功能
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/A7BTTKBE"

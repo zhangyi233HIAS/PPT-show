@@ -3,7 +3,7 @@ title: "Myeloid A20 is critical for alternative macrophage polarization and type
 doi: "10.3389/fimmu.2024.1373745"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/KWRLEEGI"
   zotero_pdf: "zotero://open-pdf/library/items/UJRYIIUZ"

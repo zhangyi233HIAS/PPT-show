@@ -3,7 +3,7 @@ title: "An Unusual pagC::TnphoA Mutation Leads to an Invasion-and Virulence-Defe
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/L24Q3W3C"
   zotero_pdf: "zotero://open-pdf/library/items/YD795KR6"

@@ -3,7 +3,7 @@ title: "Selective Amplification of Abequose and Paratose Synthase Genes (rfb) by
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/C2WHYF97"
   zotero_pdf: "zotero://open-pdf/library/items/D2UGLRVW"

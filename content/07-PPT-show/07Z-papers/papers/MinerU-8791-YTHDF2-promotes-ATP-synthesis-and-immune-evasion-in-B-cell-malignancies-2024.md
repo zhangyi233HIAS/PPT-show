@@ -3,7 +3,7 @@ title: "YTHDF2 promotes ATP synthesis and immune evasion in B cell malignancies"
 doi: "10.1016/j.cell.2024.11.007"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/RX3Q278T"
   zotero_pdf: "zotero://open-pdf/library/items/KKXPWPSB"

@@ -3,7 +3,7 @@ title: "Increased Diagnostic Yield of Capsule Endoscopy in Patients with Chronic
 doi: "10.1371/journal.pone.0087396"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/8TJQP6VS"
   zotero_pdf: "zotero://open-pdf/library/items/QYTAP3NH"

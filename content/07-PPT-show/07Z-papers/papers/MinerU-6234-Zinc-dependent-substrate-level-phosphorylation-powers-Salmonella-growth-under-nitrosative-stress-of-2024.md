@@ -3,7 +3,7 @@ title: "Zinc-dependent substrate-level phosphorylation powers Salmonella growth 
 doi: "10.1371/journal"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/9TH5Z2DU"
   zotero_pdf: "zotero://open-pdf/library/items/TFHG4UIU"

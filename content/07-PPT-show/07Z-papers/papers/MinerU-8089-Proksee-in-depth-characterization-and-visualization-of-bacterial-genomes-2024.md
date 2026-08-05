@@ -3,7 +3,7 @@ title: "Proksee: in-depth characterization and visualization of bacterial genome
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/AUU4VMUC"
   zotero_pdf: "zotero://open-pdf/library/items/RKNGV8S4"

@@ -3,7 +3,7 @@ title: "Genomic Investigation of Salmonella Isolates Recovered From a Pig Slaugh
 doi: "10.3389/fmicb.2021.704636"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/GDZW7HUU"
   zotero_pdf: "zotero://open-pdf/library/items/8CD36RLD"

@@ -3,7 +3,7 @@ title: "Genome-wide analysis of fitness determinants of Staphylococcus aureus du
 doi: "10.1371/journal.ppat.1013080"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/X4ILKXVH"
   zotero_pdf: "zotero://open-pdf/library/items/BZANB6C4"

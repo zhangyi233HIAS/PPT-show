@@ -3,7 +3,7 @@ title: "Salmonella enterica Serotype Typhimurium DT 104 Antibiotic Resistance Ge
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/IHPCM66P"
   zotero_pdf: "zotero://open-pdf/library/items/EVUV4AD6"

@@ -3,7 +3,7 @@ title: "Simultaneous assay of every Salmonella Typhi gene using one million tran
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/RGG5TGRW"
   zotero_pdf: "zotero://open-pdf/library/items/PDPFJ4DL"

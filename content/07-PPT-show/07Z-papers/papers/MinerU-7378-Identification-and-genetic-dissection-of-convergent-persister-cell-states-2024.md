@@ -3,7 +3,7 @@ title: "Identification and genetic dissection of convergent persister cell state
 doi: "10.1038/s41586-024-08124-2"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/7AVYHPDX"
   zotero_pdf: "zotero://open-pdf/library/items/5JSLQPCD"

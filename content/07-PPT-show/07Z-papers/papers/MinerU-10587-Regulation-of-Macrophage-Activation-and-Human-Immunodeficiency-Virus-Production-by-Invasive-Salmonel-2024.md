@@ -3,7 +3,7 @@ title: "Regulation of Macrophage Activation and Human Immunodeficiency Virus Pro
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VEAGWECZ"
   zotero_pdf: "zotero://open-pdf/library/items/B3DF24B2"

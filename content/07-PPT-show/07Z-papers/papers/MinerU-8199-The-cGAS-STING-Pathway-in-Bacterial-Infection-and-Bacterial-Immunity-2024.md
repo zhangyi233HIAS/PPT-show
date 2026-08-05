@@ -3,7 +3,7 @@ title: "The cGAS-STING Pathway in Bacterial Infection and Bacterial Immunity"
 doi: "10.3389/fimmu.2021.814709"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/3ZNPI4KI"
   zotero_pdf: "zotero://open-pdf/library/items/U7S5MRFU"

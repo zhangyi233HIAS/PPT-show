@@ -3,7 +3,7 @@ title: "不同温度下肠炎沙门氏菌在鸡蛋清和蛋黄中的生存特点
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/8XHKLYJZ"
   zotero_pdf: "zotero://open-pdf/library/items/QAS2KIQA"

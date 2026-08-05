@@ -3,7 +3,7 @@ title: "Clostridium butyricum alone or combined with 1, 25-dihydroxyvitamin D3 i
 doi: "10.1111/JAM.15180"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/KR7IT3BU"
   zotero_pdf: "zotero://open-pdf/library/items/CICNSZI9"

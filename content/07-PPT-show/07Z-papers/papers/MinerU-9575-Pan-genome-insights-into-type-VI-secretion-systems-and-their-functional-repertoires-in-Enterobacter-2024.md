@@ -1,9 +1,9 @@
 ---
-title: "Pan-genome insights into type VI secretion systems and their functional repertoires in Enterobacter"
+title: "Pan-genome insights into type VI secretion systems and their functional repertoires inEnterobacter"
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/YVZUDSSC"
   zotero_pdf: "zotero://open-pdf/library/items/67JAQWJS"

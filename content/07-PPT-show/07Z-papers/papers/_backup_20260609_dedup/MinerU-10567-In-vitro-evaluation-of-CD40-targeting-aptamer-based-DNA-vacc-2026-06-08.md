@@ -3,7 +3,7 @@ title: "In vitro evaluation of CD40-targeting aptamer-based DNA vaccine adjuvant
 doi: "10.3389/fvets.2026.1735450"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/H6TTGDVM"
   zotero_pdf: "zotero://open-pdf/library/items/4KZFAGAI"

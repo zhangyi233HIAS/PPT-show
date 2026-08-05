@@ -3,7 +3,7 @@ title: "Genome-wide antibiotic-CRISPRi profiling identifies LiaR activation as a
 doi: "10.1038/s41467-025-61814-x"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VSNAHIGA"
   zotero_pdf: "zotero://open-pdf/library/items/SSTGKU39"

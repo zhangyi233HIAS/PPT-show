@@ -3,7 +3,7 @@ title: "代谢依赖性琥珀酰化调控抗生素耐药性的资源分配"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/KTN3S72Z"
   zotero_pdf: "zotero://open-pdf/library/items/DF72EGNH"

@@ -3,7 +3,7 @@ title: "A modified pCas/pTargetF system for CRISPR-Cas9-assisted genome editing 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/2SG2BLUI"
   zotero_pdf: "zotero://open-pdf/library/items/BN5H6PEC"

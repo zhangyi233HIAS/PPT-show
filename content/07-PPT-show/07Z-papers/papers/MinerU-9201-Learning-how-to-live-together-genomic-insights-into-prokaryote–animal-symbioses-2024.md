@@ -3,7 +3,7 @@ title: "Learning how to live together: genomic insights into prokaryote–animal
 doi: "10.1038/nrg2319"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/S8AMJEAS"
   zotero_pdf: "zotero://open-pdf/library/items/U8KTQ9J2"

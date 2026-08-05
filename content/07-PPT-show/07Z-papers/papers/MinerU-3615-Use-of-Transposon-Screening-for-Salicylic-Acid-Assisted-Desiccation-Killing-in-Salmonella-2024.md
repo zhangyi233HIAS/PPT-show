@@ -3,7 +3,7 @@ title: "Use of Transposon Screening for Salicylic Acid-Assisted Desiccation Kill
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/7BQGIBF9"
   zotero_pdf: "zotero://open-pdf/library/items/2ZTTLUVN"

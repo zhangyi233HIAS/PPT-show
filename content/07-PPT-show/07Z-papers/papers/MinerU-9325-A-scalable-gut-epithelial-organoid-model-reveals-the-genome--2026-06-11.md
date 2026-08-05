@@ -3,7 +3,7 @@ title: "A scalable gut epithelial organoid model reveals the genome-wide coloniz
 doi: "10.1038/s41588-025-02218-x"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/ABNWE2SB"
   zotero_pdf: "zotero://open-pdf/library/items/YV6NKP8I"

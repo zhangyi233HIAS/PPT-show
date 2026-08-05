@@ -3,7 +3,7 @@ title: "肠道微生物糖脂的结构调节宿主炎症反应"
 doi: "10.1016/j.cell.2025.05.016"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/7ASH4JGH"
   zotero_pdf: "zotero://open-pdf/library/items/8X3BARFM"

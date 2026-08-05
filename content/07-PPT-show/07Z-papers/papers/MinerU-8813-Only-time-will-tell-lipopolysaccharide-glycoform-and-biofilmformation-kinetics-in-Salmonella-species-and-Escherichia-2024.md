@@ -3,7 +3,7 @@ title: "Only time will tell: lipopolysaccharide glycoform and biofilmformation k
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/EYNJVDLJ"
   zotero_pdf: "zotero://open-pdf/library/items/GK9MSUF9"

@@ -3,7 +3,7 @@ title: "Detailed analysis of c-di-GMP mediated regulation of  expression in typh
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/5V4VRPMN"
   zotero_pdf: "zotero://open-pdf/library/items/XHE92UA9"

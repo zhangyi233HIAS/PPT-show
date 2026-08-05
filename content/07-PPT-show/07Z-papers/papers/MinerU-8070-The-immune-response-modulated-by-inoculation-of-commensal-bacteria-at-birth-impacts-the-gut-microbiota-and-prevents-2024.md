@@ -3,7 +3,7 @@ title: "The immune response modulated by inoculation of commensal bacteria at bi
 doi: "10.1080/19490976.2025.2474151"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/ML7DZWFG"
   zotero_pdf: "zotero://open-pdf/library/items/SYKQZRX5"

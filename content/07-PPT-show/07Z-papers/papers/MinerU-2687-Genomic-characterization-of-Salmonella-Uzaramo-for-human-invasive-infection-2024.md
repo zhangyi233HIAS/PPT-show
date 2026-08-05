@@ -1,9 +1,9 @@
 ---
-title: "Genomic characterization of Salmonella Uzaramo for human invasive infection"
+title: "Genomic characterization of Salmonella Uzaramo for human invasiveinfection"
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/D5ISSYXA"
   zotero_pdf: "zotero://open-pdf/library/items/2ZDNYWF7"

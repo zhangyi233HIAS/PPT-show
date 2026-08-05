@@ -3,7 +3,7 @@ title: "The Combination of Tumor-targeting Salmonella typhimurium A1-R Plus the 
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/Z6YFBT3M"
   zotero_pdf: "zotero://open-pdf/library/items/F96NBA9T"

@@ -3,7 +3,7 @@ title: "Splenic microRNA Expression Profiles and Integration Analyses Involved i
 doi: "10.3389/fcimb.2017.00377"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/HRPS7VYG"
   zotero_pdf: "zotero://open-pdf/library/items/FBHI8JGI"

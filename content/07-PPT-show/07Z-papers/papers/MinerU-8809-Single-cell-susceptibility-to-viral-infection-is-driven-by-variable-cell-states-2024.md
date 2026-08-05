@@ -3,7 +3,7 @@ title: "Single-cell susceptibility to viral infection is driven by variable cell
 doi: "10.1016/j.cell.2025.10.021"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/QD5G27IN"
   zotero_pdf: "zotero://open-pdf/library/items/Y6ID64DW"

@@ -3,7 +3,7 @@ title: "Lactobacillus plantarum-derived postbiotics prevent Salmonella-induced n
 doi: "10.3389/fnut.2022.946096"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/ZZFZYM58"
   zotero_pdf: "zotero://open-pdf/library/items/EL83LI2T"

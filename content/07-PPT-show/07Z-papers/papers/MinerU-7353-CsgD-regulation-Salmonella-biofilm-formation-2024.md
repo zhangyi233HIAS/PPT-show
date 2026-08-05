@@ -3,7 +3,7 @@ title: "CsgD 对沙门氏菌生物膜形成的调控作用及其影响因素的�
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XWYL9MJD"
   zotero_pdf: "zotero://open-pdf/library/items/YRAB9S3E"

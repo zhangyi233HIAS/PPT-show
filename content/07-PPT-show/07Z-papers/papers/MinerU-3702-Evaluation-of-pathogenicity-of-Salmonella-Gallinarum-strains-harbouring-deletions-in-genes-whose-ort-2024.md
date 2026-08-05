@@ -3,7 +3,7 @@ title: "Evaluation of pathogenicity of Salmonella Gallinarum strains harbouring 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/4C3Z5HAN"
   zotero_pdf: "zotero://open-pdf/library/items/QSKL6LZI"

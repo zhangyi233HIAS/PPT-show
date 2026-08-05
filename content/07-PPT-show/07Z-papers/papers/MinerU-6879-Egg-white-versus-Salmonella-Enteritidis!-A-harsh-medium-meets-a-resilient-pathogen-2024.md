@@ -3,7 +3,7 @@ title: "Egg white versus Salmonella Enteritidis! A harsh medium meets a resilien
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/FQWZT4GQ"
   zotero_pdf: "zotero://open-pdf/library/items/GAB87MFP"

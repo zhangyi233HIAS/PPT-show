@@ -3,7 +3,7 @@ title: "Comparative genomic analysis uncovers 3 novel loci encoding type six sec
 doi: "10.1186/1471-2164-10-354"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/KRNUZ2PU"
   zotero_pdf: "zotero://open-pdf/library/items/HUTEDUI8"

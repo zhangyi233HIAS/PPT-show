@@ -3,7 +3,7 @@ title: "Identification of a virulence locus encoding a second type III secretion
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/A7RR3N4A"
   zotero_pdf: "zotero://open-pdf/library/items/Y6Y6GMKN"

@@ -3,7 +3,7 @@ title: "Unknown"
 doi: "10.1093/infdis/jiy612"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/H2BLSPFU"
   zotero_pdf: "zotero://open-pdf/library/items/ZLRCQY6N"

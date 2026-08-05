@@ -3,7 +3,7 @@ title: "In Vitro Attachment and Invasion of Chicken Ovarian Granulosa Cells by S
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VL6ALXMA"
   zotero_pdf: "zotero://open-pdf/library/items/H4JCVI3P"

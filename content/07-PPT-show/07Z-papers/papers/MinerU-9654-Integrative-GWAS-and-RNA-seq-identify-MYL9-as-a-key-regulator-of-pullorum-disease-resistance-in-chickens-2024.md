@@ -3,7 +3,7 @@ title: "Integrative GWAS and RNA-seq identify MYL9 as a key regulator of pulloru
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/LBB8ULWG"
   zotero_pdf: "zotero://open-pdf/library/items/GLBF5JNF"

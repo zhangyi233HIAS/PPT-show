@@ -3,7 +3,7 @@ title: "Salmonella Typhimurium persistently infects host via its effector SseJ-i
 doi: "10.1080/15548627.2025.2462511"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/QKJILXPS"
   zotero_pdf: "zotero://open-pdf/library/items/P2W3G5N8"

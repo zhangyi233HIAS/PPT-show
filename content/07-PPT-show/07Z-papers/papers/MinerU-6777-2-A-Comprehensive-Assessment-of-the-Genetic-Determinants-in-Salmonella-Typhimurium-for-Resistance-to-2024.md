@@ -3,7 +3,7 @@ title: "2 A Comprehensive Assessment of the Genetic Determinants in Salmonella T
 doi: "10.1101/115360"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/3R583PWI"
   zotero_pdf: "zotero://open-pdf/library/items/W4KA63U3"

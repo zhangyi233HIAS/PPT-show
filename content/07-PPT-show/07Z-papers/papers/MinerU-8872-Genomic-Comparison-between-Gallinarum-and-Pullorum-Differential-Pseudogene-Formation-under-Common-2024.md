@@ -3,7 +3,7 @@ title: "Genomic Comparison between  Gallinarum and Pullorum: Differential Pseudo
 doi: "10.1371/journal.pone.0059427"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/YJQQGSZB"
   zotero_pdf: "zotero://open-pdf/library/items/J5EHSEH7"

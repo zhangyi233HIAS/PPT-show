@@ -3,7 +3,7 @@ title: "A transcriptomic analysis of the effects of macrophage polarization and 
 doi: "10.1371/journal.pone.0276010"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/3PNSTNCV"
   zotero_pdf: "zotero://open-pdf/library/items/HLKSSI63"

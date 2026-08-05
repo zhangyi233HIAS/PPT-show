@@ -3,7 +3,7 @@ title: "沙门氏菌鼠伤寒血清变种在脾巨噬细胞和生殖道中持续
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/ENDD3N2P"
   zotero_pdf: "zotero://open-pdf/library/items/9R8CCM3L"

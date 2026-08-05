@@ -3,7 +3,7 @@ title: "Dual transposon sequencing profiles the genetic interaction landscape in
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/MTCNXPRY"
   zotero_pdf: "zotero://open-pdf/library/items/LQW77BN4"

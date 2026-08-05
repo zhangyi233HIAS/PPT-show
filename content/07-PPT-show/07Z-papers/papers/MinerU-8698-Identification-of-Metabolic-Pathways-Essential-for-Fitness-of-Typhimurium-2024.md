@@ -3,7 +3,7 @@ title: "Identification of Metabolic Pathways Essential for Fitness of  Typhimuri
 doi: "10.1371/journal.pone.0101869"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/BXM63EBT"
   zotero_pdf: "zotero://open-pdf/library/items/RPQDW6HF"

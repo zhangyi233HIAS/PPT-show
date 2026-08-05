@@ -3,7 +3,7 @@ title: "Downregulation of AKT/mTOR signaling pathway for Salmonella-mediated aut
 doi: "10.7150/jca.75163"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/BZNTNE4H"
   zotero_pdf: "zotero://open-pdf/library/items/NUFF3R3V"

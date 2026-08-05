@@ -3,7 +3,7 @@ title: "Breaking the nanoparticle’s dispersible limit via rotatable surface li
 doi: "10.1038/s41467-022-31275-7"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/GYMDHGAU"
   zotero_pdf: "zotero://open-pdf/library/items/6CE8RV2N"

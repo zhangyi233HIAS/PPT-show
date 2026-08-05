@@ -3,7 +3,7 @@ title: "ГЕНЕТИКА, ПРОТЕОМИКА И МЕТАБОЛОМИКА GENET
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/EQBDGUQS"
   zotero_pdf: "zotero://open-pdf/library/items/3ER47I7L"

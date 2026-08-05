@@ -3,7 +3,7 @@ title: "Comparative genome analysis of Salmonella Enteritidis PT4 and Salmonella
 doi: "10.1101/gr.077404.108"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/V2GIS9SL"
   zotero_pdf: "zotero://open-pdf/library/items/WDQFV9V2"

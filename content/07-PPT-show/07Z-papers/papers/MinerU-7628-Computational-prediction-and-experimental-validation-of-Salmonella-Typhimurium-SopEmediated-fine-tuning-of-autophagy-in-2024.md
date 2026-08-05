@@ -3,7 +3,7 @@ title: "Computational prediction and experimental validation of Salmonella Typhi
 doi: "10.3389/fcimb.2022.834895"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/PWKG9FQ2"
   zotero_pdf: "zotero://open-pdf/library/items/SCZ2PSGB"

@@ -3,7 +3,7 @@ title: "Highly expressed amino acid biosynthesis genes revealed by global gene e
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/MBVUHV6F"
   zotero_pdf: "zotero://open-pdf/library/items/UF2QPLBI"

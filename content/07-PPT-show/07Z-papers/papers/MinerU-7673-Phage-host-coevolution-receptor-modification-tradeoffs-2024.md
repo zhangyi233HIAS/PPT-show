@@ -3,7 +3,7 @@ title: "受体修饰和健身驱动器宿主 - 细菌噬菌体共同进化之间
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/2INZTRVV"
   zotero_pdf: "zotero://open-pdf/library/items/YDZ5EU7K"

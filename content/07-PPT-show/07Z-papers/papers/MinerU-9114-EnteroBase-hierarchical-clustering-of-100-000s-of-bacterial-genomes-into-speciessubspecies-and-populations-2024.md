@@ -3,7 +3,7 @@ title: "EnteroBase: hierarchical clustering of 100 000s of bacterial genomes int
 doi: "10.1098/rstb.2021.0240"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/EXENGB8W"
   zotero_pdf: "zotero://open-pdf/library/items/28VSCIBU"

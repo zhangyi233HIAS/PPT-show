@@ -1,9 +1,9 @@
 ---
-title: "The sulfur assimilation pathway mitigates redox stress from acidic pH in Salmonella Typhi H58"
+title: "The sulfur assimilation pathway mitigates redox stress from acidic pH in Salmonella TyphiH58"
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/N8LBZZ5P"
   zotero_pdf: "zotero://open-pdf/library/items/37HIIDBT"

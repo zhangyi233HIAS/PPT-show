@@ -3,7 +3,7 @@ title: "A Cross-Sectional Study of Companion Animal-Derived Multidrug-Resistant 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/Z78N2P8R"
   zotero_pdf: "zotero://open-pdf/library/items/C7TEQIE4"

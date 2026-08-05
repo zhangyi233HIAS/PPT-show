@@ -3,7 +3,7 @@ title: "Draft Genome Sequence of Salmonella enterica subsp. enterica Serovar Typ
 doi: "10.1128/genomeA.01151-17"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/I6H8LRXV"
   zotero_pdf: "zotero://open-pdf/library/items/7L4DKZYV"

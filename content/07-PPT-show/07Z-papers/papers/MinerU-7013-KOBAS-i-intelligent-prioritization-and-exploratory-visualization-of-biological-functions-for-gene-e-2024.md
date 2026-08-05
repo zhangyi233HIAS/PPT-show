@@ -3,7 +3,7 @@ title: "KOBAS-i: intelligent prioritization and exploratory visualization of bio
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/7CX3TDJW"
   zotero_pdf: "zotero://open-pdf/library/items/NKLG8W2B"

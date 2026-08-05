@@ -3,7 +3,7 @@ title: "The Dream of Mainstream in TDWG, GBIF and SPNHC"
 doi: "10.3897/biss.8.139153"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/ZYWNPCTM"
   zotero_pdf: "zotero://open-pdf/library/items/IYVRCW96"

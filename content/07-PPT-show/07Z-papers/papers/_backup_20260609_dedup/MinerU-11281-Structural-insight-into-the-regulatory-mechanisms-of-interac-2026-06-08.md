@@ -3,7 +3,7 @@ title: "Structural insight into the regulatory mechanisms of interactions of the
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/CLE9INV9"
   zotero_pdf: "zotero://open-pdf/library/items/MNTCM7UV"

@@ -3,7 +3,7 @@ title: "Salmonella persisters promote the spread of antibiotic resistance plasmi
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/2GET6M28"
   zotero_pdf: "zotero://open-pdf/library/items/YP4HPM68"

@@ -3,7 +3,7 @@ title: "Genome Scanning for Conditionally Essential Genes in Salmonella enterica
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/9Y779DPE"
   zotero_pdf: "zotero://open-pdf/library/items/BDDS8DG4"

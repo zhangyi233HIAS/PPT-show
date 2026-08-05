@@ -3,7 +3,7 @@ title: "沙门氏菌与宿主过程的相互作用"
 doi: "10.1038/nrmicro3420在线发布于2015年3月9日"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XWDGE3RF"
   zotero_pdf: "zotero://open-pdf/library/items/UKLQ3S3A"

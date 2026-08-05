@@ -3,7 +3,7 @@ title: "High-Resolution Identification of Multiple Salmonella Serovars in a Sing
 doi: "10.1128/AEM.01859-18"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/FPT5VFQU"
   zotero_pdf: "zotero://open-pdf/library/items/B28WUQB8"

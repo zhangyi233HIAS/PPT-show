@@ -3,7 +3,7 @@ title: "Corrigendum: Genomic Characterization of mcr-1-carrying Salmonella enter
 doi: "10.3389/fbioe.2020.00842"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/8DX5NEFE"
   zotero_pdf: "zotero://open-pdf/library/items/8WVNYF43"

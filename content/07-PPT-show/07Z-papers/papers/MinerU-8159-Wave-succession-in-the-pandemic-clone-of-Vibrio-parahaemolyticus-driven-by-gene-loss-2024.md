@@ -3,7 +3,7 @@ title: "Wave succession in the pandemic clone of Vibrio parahaemolyticus driven 
 doi: "10.1038/s41559-025-02827-z"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/5GP9JWA3"
   zotero_pdf: "zotero://open-pdf/library/items/FMQ7X489"

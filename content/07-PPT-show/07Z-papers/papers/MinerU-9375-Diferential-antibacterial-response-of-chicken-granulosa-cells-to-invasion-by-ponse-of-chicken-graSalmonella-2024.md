@@ -3,7 +3,7 @@ title: "Diferential antibacterial response of chicken granulosa cells to invasio
 doi: "10.3382/ps/pew050"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VEEL683R"
   zotero_pdf: "zotero://open-pdf/library/items/5ZSMFKDN"

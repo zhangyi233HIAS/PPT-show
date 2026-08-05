@@ -3,7 +3,7 @@ title: "Modulation of Antimicrobial Host Defense Peptide Gene Expression by Free
 doi: "10.1371/journal.pone.0049558"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XYVY64TB"
   zotero_pdf: "zotero://open-pdf/library/items/QKX5DL2N"

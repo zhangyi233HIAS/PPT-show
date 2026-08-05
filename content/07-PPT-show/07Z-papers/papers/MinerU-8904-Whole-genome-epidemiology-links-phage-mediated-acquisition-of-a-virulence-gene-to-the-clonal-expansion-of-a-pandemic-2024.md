@@ -3,7 +3,7 @@ title: "Whole-genome epidemiology links phage-mediated acquisition of a virulenc
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/IVURG5GT"
   zotero_pdf: "zotero://open-pdf/library/items/NLZMW7XT"

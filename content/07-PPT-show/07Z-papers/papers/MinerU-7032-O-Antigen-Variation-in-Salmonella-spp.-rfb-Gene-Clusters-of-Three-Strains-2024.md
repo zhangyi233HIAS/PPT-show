@@ -3,7 +3,7 @@ title: "O-Antigen Variation in Salmonella spp.: rfb Gene Clusters of Three Strai
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/KFL639J7"
   zotero_pdf: "zotero://open-pdf/library/items/J7SD4XX7"

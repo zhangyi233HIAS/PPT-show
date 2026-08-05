@@ -3,7 +3,7 @@ title: "Essential role for epithelial HIF-mediated xenophagy in control of Salmo
 doi: "10.1016/j.celrep.2022.111409"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/4DQ8EEWB"
   zotero_pdf: "zotero://open-pdf/library/items/N8376AMC"

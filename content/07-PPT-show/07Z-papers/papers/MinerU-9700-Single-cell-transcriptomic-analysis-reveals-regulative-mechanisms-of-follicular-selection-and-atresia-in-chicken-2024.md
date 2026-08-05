@@ -3,7 +3,7 @@ title: "Single-cell transcriptomic analysis reveals regulative mechanisms of fol
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/M72QP6QX"
   zotero_pdf: "zotero://open-pdf/library/items/EF2R3C3E"

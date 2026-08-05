@@ -3,7 +3,7 @@ title: "Rabaptin5 targets autophagy to damaged endosomes and Salmonella vacuoles
 doi: "10.15252/embr.202153429"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/BFWP5E8E"
   zotero_pdf: "zotero://open-pdf/library/items/L3M9NFYD"

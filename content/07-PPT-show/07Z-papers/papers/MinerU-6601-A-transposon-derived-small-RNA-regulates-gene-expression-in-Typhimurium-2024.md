@@ -3,7 +3,7 @@ title: "A transposon-derived small RNA regulates gene expression in  Typhimurium
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/WNISQEJR"
   zotero_pdf: "zotero://open-pdf/library/items/Q9C2VIY5"

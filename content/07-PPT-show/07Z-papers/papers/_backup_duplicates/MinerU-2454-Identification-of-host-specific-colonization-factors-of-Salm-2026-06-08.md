@@ -3,7 +3,7 @@ title: "Identification of host-specific colonization factors of Salmonella enter
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/MJPXNKT3"
   zotero_pdf: "zotero://open-pdf/library/items/V3DQXKGZ"

@@ -3,7 +3,7 @@ title: "Genome-wide fitness analysis identifies genes required for in vitro grow
 doi: "10.6084/m9.figshare.21720416.v1"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/E57FXFCQ"
   zotero_pdf: "zotero://open-pdf/library/items/WCIZCW84"

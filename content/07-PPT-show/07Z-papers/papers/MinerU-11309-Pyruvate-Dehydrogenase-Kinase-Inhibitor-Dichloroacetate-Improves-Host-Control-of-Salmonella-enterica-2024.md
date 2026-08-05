@@ -3,7 +3,7 @@ title: "Pyruvate Dehydrogenase Kinase Inhibitor Dichloroacetate Improves Host Co
 doi: "10.3389/fimmu.2021.739938"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/GKUDERIJ"
   zotero_pdf: "zotero://open-pdf/library/items/8LTFZDXK"

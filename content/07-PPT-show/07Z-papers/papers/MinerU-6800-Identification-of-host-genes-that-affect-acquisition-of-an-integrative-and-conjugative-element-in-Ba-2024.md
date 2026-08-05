@@ -3,7 +3,7 @@ title: "Identification of host genes that affect acquisition of an integrative a
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/SWRGGB2V"
   zotero_pdf: "zotero://open-pdf/library/items/NKTT9GDP"

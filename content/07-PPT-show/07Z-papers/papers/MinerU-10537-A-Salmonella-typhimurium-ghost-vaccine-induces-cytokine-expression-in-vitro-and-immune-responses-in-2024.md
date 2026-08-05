@@ -3,7 +3,7 @@ title: "A Salmonella typhimurium ghost vaccine induces cytokine expression in vi
 doi: "10.1371/journal.pone.0185488"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/AKR87VG9"
   zotero_pdf: "zotero://open-pdf/library/items/UIBJ7UYP"

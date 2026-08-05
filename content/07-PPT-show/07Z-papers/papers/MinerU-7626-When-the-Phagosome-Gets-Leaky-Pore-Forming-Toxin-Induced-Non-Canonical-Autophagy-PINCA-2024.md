@@ -3,7 +3,7 @@ title: "When the Phagosome Gets Leaky: Pore-Forming Toxin-Induced Non-Canonical 
 doi: "10.3389/fcimb.2022.834321"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/7P8Q3L9J"
   zotero_pdf: "zotero://open-pdf/library/items/SKVUN2AC"

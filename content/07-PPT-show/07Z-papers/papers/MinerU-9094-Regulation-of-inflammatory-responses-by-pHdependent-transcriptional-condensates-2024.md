@@ -3,7 +3,7 @@ title: "Regulation of inflammatory responses by pHdependent transcriptional cond
 doi: "10.1016/j.cell.2025.06.033"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/5SMSIR6T"
   zotero_pdf: "zotero://open-pdf/library/items/IKM4BXYM"

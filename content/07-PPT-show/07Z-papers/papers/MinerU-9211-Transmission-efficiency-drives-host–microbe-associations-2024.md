@@ -3,7 +3,7 @@ title: "Transmission efficiency drives host–microbe associations"
 doi: "10.1098/rspb.2020.0820"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/GVF6JTGL"

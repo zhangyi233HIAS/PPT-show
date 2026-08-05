@@ -3,7 +3,7 @@ title: "Transcriptional profiling avian beta-defensins in chicken oviduct epithe
 doi: "10.1186/1471-2180-9-153"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/XHQQQIXP"
   zotero_pdf: "zotero://open-pdf/library/items/S87SXHEW"

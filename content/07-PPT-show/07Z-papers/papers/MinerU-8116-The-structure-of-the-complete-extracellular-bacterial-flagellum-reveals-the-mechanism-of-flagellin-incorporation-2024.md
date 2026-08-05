@@ -3,7 +3,7 @@ title: "The structure of the complete extracellular bacterial flagellum reveals 
 doi: "10.1038/s41564-025-02037-0"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VCCEKHBN"
   zotero_pdf: "zotero://open-pdf/library/items/XBZAIZCZ"

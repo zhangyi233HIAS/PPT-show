@@ -3,7 +3,7 @@ title: "ONE Health Approach to Address Zoonotic Brucellosis: A Spatiotemporal As
 doi: "10.3389/fvets.2020.00521"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/SUI4ZYB2"
   zotero_pdf: "zotero://open-pdf/library/items/N76THEDQ"

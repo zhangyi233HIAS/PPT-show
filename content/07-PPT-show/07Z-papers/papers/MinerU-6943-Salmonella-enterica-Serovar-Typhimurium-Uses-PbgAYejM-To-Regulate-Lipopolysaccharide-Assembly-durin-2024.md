@@ -3,7 +3,7 @@ title: "Salmonella enterica Serovar Typhimurium Uses PbgA/YejM To Regulate Lipop
 doi: "10.1128/IAI.00758-19"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/P8QVLLVK"
   zotero_pdf: "zotero://open-pdf/library/items/5EHH9U5F"

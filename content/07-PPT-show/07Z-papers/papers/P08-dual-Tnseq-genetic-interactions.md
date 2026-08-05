@@ -1,4 +1,4 @@
-﻿---
+---
 title: "双重转座子测序解析细菌的遗传相互作用图谱"
 title_en: "Dual Tn-seq resolves bacterial genetic interaction maps"
 authors:
@@ -27,10 +27,6 @@ tags:
 type: literature-note
 created: 2026-06-03
 source: 沙门菌合并PDF.pdf
-source:
-  mineru_md: "file:///G:/zotero/llm-for-zotero-mineru/8226/full.md"
-  mineru_images: "file:///G:/zotero/llm-for-zotero-mineru/8226/images"
-
 ---
 
 # 双重转座子测序解析细菌的遗传相互作用图谱

@@ -3,7 +3,7 @@ title: "Zoonotic Streptococcus imports glucose to inhibit stringent response and
 doi: "10.1038/s41564-025-02194-2"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/GMWRFXP8"
   zotero_pdf: "zotero://open-pdf/library/items/XMVWLL2X"

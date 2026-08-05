@@ -3,7 +3,7 @@ title: "Global Genomic Characterization of Salmonella enterica Serovar Telelkebi
 doi: "10.3389/fmicb.2021.704152"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/JEPDM68Z"
   zotero_pdf: "zotero://open-pdf/library/items/P9AJQF6U"

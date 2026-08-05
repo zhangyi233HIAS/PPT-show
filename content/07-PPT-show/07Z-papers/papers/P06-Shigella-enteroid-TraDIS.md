@@ -22,10 +22,6 @@ tags:
 type: literature-note
 created: 2026-06-03
 source: 沙门菌合并PDF.pdf
-source:
-  mineru_md: "file:///G:/zotero/llm-for-zotero-mineru/9325/full.md"
-  mineru_images: "file:///G:/zotero/llm-for-zotero-mineru/9325/images"
-
 ---
 
 # 可扩展肠上皮器官模型揭示了人类适应的Shigella感染组

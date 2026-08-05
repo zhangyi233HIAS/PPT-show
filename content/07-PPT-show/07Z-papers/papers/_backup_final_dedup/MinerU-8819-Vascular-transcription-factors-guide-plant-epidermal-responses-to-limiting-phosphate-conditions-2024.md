@@ -3,7 +3,7 @@ title: "维管转录因子指导植物表皮对限制性磷条件的反应"
 doi: "10.1126/science.aay4970"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/URYPMIXN"
   zotero_pdf: "zotero://open-pdf/library/items/YGNG5NYY"

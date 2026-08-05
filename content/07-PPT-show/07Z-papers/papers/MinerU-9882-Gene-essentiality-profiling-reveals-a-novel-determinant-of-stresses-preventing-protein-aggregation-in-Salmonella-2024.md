@@ -3,7 +3,7 @@ title: "Gene essentiality profiling reveals a novel determinant of stresses prev
 doi: "10.1080/22221751.2022.2081618"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/2JFEEN2B"
   zotero_pdf: "zotero://open-pdf/library/items/5DGIFDUK"

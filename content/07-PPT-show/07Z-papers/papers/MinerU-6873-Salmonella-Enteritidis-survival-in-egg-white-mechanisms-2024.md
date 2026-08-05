@@ -3,7 +3,7 @@ title: "肠炎沙门氏菌在蛋清中的存活机制及其生物防控研究进
 doi: "10.7506/spkx1002-6630-20221207-075"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/JLD95MLA"

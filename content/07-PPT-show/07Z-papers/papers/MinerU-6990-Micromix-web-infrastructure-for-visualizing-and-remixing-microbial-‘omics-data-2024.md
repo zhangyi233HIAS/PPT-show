@@ -3,7 +3,7 @@ title: "Micromix: web infrastructure for visualizing and remixing microbial ‘o
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/RJY6LBFN"
   zotero_pdf: "zotero://open-pdf/library/items/6KR9796Y"

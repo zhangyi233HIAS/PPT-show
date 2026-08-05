@@ -3,7 +3,7 @@ title: "肠炎沙门氏菌在贮藏鸡蛋蛋清中生存动力学模型的建立
 doi: "10.16429/j.1009-7848.2018.03.022"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/LRWZ2KQT"
   zotero_pdf: "zotero://open-pdf/library/items/K7DBSTWN"

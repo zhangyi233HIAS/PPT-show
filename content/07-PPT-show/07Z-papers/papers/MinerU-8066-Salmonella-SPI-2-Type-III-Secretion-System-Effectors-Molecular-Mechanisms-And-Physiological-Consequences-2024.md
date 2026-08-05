@@ -3,7 +3,7 @@ title: "Salmonella SPI-2 Type III Secretion System Effectors: Molecular Mechanis
 doi: "10.1016/j.chom.2017.07.009"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/2UGIT8DV"
   zotero_pdf: "zotero://open-pdf/library/items/XE8L488L"

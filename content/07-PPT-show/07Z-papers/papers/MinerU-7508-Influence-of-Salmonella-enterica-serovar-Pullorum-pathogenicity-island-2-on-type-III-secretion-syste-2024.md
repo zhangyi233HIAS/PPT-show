@@ -3,7 +3,7 @@ title: "Influence of Salmonella enterica serovar Pullorum pathogenicity island 2
 doi: "10.1080/03079457.2016.1247432"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/NJ4EAK58"
   zotero_pdf: "zotero://open-pdf/library/items/JIY3PPFF"

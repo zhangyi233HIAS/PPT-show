@@ -3,7 +3,7 @@ title: "Pangenome and comparative genomics analysis reveal patterns of quorum se
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/45UA6HJK"
   zotero_pdf: "zotero://open-pdf/library/items/5GJF8WR6"

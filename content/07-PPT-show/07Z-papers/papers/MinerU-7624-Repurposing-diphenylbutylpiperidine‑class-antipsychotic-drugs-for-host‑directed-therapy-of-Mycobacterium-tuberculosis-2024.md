@@ -3,7 +3,7 @@ title: "Repurposing diphenylbutylpiperidine‑class antipsychotic drugs for host
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VZH8VTMA"
   zotero_pdf: "zotero://open-pdf/library/items/KPWRDQ4Q"

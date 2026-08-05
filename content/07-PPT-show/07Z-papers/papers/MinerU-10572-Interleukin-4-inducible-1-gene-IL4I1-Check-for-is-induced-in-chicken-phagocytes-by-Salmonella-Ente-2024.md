@@ -1,9 +1,9 @@
 ---
-title: "Interleukin 4 inducible 1 gene (IL4I1) Check for is induced in chicken phagocytes by Salmonella Ente"
+title: "Interleukin 4 inducible 1 gene (IL4I1) Check for isinduced inchicken phagocytes bySalmonella Ente"
 doi: ""
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/NAGKD9I5"
   zotero_pdf: "zotero://open-pdf/library/items/ILYZG674"

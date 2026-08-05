@@ -3,7 +3,7 @@ title: "细菌感染与细菌免疫中的CGAS-STING信号通路"
 doi: "10.3389/fimmu.2021.814709"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/3ZNPI4KI"
   zotero_pdf: "zotero://open-pdf/library/items/ES89RF27"

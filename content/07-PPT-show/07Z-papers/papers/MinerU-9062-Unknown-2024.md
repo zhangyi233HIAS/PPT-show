@@ -3,7 +3,7 @@ title: "Unknown"
 doi: "10.1101/2025.09.29.679141doi:"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/8764RNPV"
   zotero_pdf: "zotero://open-pdf/library/items/GBN2T2VL"

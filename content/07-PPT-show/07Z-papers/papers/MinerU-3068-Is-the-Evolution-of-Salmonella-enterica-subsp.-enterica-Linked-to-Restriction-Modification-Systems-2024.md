@@ -3,7 +3,7 @@ title: "Is the Evolution of Salmonella enterica subsp. enterica Linked to Restri
 doi: "10.1128/mSystems.00009-16"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/USHTNZJD"
   zotero_pdf: "zotero://open-pdf/library/items/AW9VFVSG"

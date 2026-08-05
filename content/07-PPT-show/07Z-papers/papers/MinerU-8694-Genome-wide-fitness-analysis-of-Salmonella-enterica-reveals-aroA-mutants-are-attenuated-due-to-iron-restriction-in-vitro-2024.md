@@ -3,7 +3,7 @@ title: "Genome-wide fitness analysis of Salmonella enterica reveals aroA mutants
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/JBX23VEK"
   zotero_pdf: "zotero://open-pdf/library/items/LRG8L5U7"

@@ -3,7 +3,7 @@ title: "使用一百万个转座子突变体同时对每种沙门氏菌的卫元
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/RGG5TGRW"
   zotero_pdf: "zotero://open-pdf/library/items/YPY2R4PU"

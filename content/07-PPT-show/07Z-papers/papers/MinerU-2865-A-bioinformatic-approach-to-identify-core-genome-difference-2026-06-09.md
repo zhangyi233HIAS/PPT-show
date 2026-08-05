@@ -3,7 +3,7 @@ title: "A bioinformatic approach to identify core genome difference between Salm
 doi: "10.1016/j.meegid.2020.104446"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/PS59QDCS"
   zotero_pdf: "zotero://open-pdf/library/items/VNBH5FDF"

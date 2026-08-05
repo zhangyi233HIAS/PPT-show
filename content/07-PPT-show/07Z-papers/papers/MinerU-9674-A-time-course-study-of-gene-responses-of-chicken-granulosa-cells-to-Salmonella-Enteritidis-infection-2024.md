@@ -3,7 +3,7 @@ title: "A time-course study of gene responses of chicken granulosa cells to Salm
 doi: ""
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/6XYZBPX6"
   zotero_pdf: "zotero://open-pdf/library/items/D2WA6GAY"

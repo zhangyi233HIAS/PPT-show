@@ -3,7 +3,7 @@ title: "Microarray-Based Detection of Salmonella enterica Serovar Enteritidis Ge
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/CWB4KG2E"
   zotero_pdf: "zotero://open-pdf/library/items/JIT4I2RH"

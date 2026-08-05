@@ -3,7 +3,7 @@ title: "Gene expression kinetics governs stimulus-specific decoration of the Sal
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/VXA2P68V"
   zotero_pdf: "zotero://open-pdf/library/items/5624GCV5"

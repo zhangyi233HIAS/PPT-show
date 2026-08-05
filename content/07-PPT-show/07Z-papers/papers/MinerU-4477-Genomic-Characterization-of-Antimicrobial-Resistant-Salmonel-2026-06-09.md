@@ -3,7 +3,7 @@ title: "Genomic Characterization of Antimicrobial-Resistant Salmonella enterica 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/PTY8A64Z"
   zotero_pdf: "zotero://open-pdf/library/items/TX8H6AC5"

@@ -3,7 +3,7 @@ title: "Multiple Food-Animal-Borne Route in Transmission of Antibiotic-Resistant
 doi: "10.3389/fmicb.2018.00023"
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/7SSMPKP2"
   zotero_pdf: "zotero://open-pdf/library/items/T932VI7H"

@@ -1,9 +1,9 @@
 ---
-title: "Establishment of enzyme-linked immunosorbent assays based on recombinant S1 and its truncated protei"
+title: "Establishment ofenzyme-linked immunosorbent assays based onrecombinant S1 andits truncated protei"
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/LDTJCYDU"
   zotero_pdf: "zotero://open-pdf/library/items/ZCUW5UYF"

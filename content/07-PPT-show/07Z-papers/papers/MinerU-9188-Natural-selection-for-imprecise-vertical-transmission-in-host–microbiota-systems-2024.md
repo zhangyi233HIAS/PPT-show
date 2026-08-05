@@ -3,7 +3,7 @@ title: "Natural selection for imprecise vertical transmission in host–microbio
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/FL5UGS8M"
   zotero_pdf: "zotero://open-pdf/library/items/H8FGEV7Z"

@@ -3,7 +3,7 @@ title: "A newly discovered sRNA is involved in the virulence regulation of Salmo
 doi: "10.3389/fvets.2025.1651294"
 type: literature-note
 created: 2026-06-08
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/MCPEBT5E"
   zotero_pdf: "zotero://open-pdf/library/items/LBRDMJG5"

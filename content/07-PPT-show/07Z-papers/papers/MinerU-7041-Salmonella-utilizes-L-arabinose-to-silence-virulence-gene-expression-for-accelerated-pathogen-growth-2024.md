@@ -3,7 +3,7 @@ title: "Salmonella utilizes L-arabinose to silence virulence gene expression for
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/B5FN3A7W"
   zotero_pdf: "zotero://open-pdf/library/items/K3ETDJBE"

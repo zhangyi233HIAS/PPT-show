@@ -3,7 +3,7 @@ title: "Fast evolution of SOS-independent multidrug resistance in bacteria"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/6ICZ78FI"
   zotero_pdf: "zotero://open-pdf/library/items/GNEB9CMN"

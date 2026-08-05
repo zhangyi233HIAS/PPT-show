@@ -3,7 +3,7 @@ title: "鼠伤寒沙门氏菌通过其效应蛋白Ssej诱导的PHB2介导的线�
 doi: "10.1080/15548627.2025.2462511"
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/QKJILXPS"
   zotero_pdf: "zotero://open-pdf/library/items/PG4BHRTA"

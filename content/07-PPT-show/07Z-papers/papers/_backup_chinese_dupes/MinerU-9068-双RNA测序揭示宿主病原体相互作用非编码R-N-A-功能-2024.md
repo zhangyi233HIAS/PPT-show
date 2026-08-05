@@ -3,7 +3,7 @@ title: "双RNA测序揭示宿主‑病原体相互作用中非编码R N A 的功
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/9CPQB9V3"
   zotero_pdf: "zotero://open-pdf/library/items/5M9QI4Y6"

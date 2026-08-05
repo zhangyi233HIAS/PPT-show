@@ -3,7 +3,7 @@ title: "Hybrid Biomimetic Membrane Coated Particles-Mediated Bacterial Ferroptos
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/2YXEXIFY"
   zotero_pdf: "zotero://open-pdf/library/items/L8F2CKV9"

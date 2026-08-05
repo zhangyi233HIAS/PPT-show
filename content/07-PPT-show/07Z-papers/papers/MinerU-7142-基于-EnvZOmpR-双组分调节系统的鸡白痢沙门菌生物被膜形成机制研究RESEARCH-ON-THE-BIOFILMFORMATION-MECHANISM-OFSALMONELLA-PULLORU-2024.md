@@ -3,7 +3,7 @@ title: "基于 EnvZ/OmpR 双组分调节系统的鸡白痢沙门菌生物被膜�
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/None"
   zotero_pdf: "zotero://open-pdf/library/items/6MMN3XQU"

@@ -3,7 +3,7 @@ title: "Observations on the persistence and vertical transmission of Salmonella 
 doi: "10.1080/03079450120054631"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/65QDDZWW"
   zotero_pdf: "zotero://open-pdf/library/items/6F3XJVTB"
@@ -130,4 +130,4 @@ source:
     3.  **忽视时间动态**：感染是一个动态过程。基因组学研究（尤其是转录组）应在多个关键时间点取样，才能捕捉到与持续感染建立或免疫清除相关的动态分子事件，而非仅关注急性期。
     4.  **将相关性等同于因果性**：组学分析可能发现大量SP与SG的差异表达基因或基因组区域。需要谨慎选择，通过基因编辑等反向遗传学手段进行功能验证，才能确定哪些是真正决定“持续感染”表型的关键基因。
 
-**Tags: #论文笔记 #微生物学 #沙门氏菌 #鸡白痢 #禽伤寒 #垂直传播 #持续感染 #宿主遗传 #SalI基因型 #AvianPathology**
+Tags: #论文笔记 #微生物学 #沙门氏菌 #鸡白痢 #禽伤寒 #垂直传播 #持续感染 #宿主遗传 #SalI基因型 #AvianPathology

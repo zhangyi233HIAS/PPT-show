@@ -3,7 +3,7 @@ title: "Nitric oxide is a host cue for Salmonella Typhimurium systemic infection
 doi: "10.1038/s42003-023-04876-1"
 type: literature-note
 created: 2026-06-11
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/IB5LP4Q2"
   zotero_pdf: "zotero://open-pdf/library/items/VYMK7WH9"

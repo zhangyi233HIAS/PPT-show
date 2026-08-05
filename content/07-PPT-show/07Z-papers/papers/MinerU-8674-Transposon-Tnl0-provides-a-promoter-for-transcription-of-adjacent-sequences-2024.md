@@ -3,7 +3,7 @@ title: "Transposon Tnl0 provides a promoter for transcription of adjacent sequen
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/EWI5343T"
   zotero_pdf: "zotero://open-pdf/library/items/57IXD5F2"

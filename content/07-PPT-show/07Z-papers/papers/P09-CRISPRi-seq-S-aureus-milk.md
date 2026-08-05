@@ -17,10 +17,6 @@ created: 2026-06-03
 type: literature-note
 source: 沙门菌合并PDF.pdf
 pages: "153-175"
-source:
-  mineru_md: "file:///G:/zotero/llm-for-zotero-mineru/7084/full.md"
-  mineru_images: "file:///G:/zotero/llm-for-zotero-mineru/7084/images"
-
 ---
 
 # CRISPRi-seq of Staphylococcus aureus Growth in Milk

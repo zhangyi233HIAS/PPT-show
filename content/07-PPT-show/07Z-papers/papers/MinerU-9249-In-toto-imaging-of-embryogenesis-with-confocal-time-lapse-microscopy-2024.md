@@ -3,7 +3,7 @@ title: "In toto imaging of embryogenesis with confocal time-lapse microscopy"
 doi: ""
 type: literature-note
 created: 2026-06-10
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/RX7C9M6A"
   zotero_pdf: "zotero://open-pdf/library/items/SXLXCBZA"

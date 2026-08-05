@@ -3,7 +3,7 @@ title: "Pan-genome analysis and drug repurposing strategies for extensively drug
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/W7CBG3RK"
   zotero_pdf: "zotero://open-pdf/library/items/2LN9AB3Z"

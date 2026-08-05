@@ -3,7 +3,7 @@ title: "Two homologous Salmonella serogroup C1- specific genes are required for 
 doi: ""
 type: literature-note
 created: 2026-06-09
-tags: [zotero, paper-note, #note]
+tags: [zotero, paper-note, '#note']
 source:
   zotero_item: "zotero://select/items/0/M49UM8A7"
   zotero_pdf: "zotero://open-pdf/library/items/WRHQD2VV"

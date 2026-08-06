@@ -1,5 +1,5 @@
 ---
-title: "MIDAS: rapid, multiplexed molecular proling for integrated host–pathogen analysis"
+title: "MIDAS: rapid, multiplexed molecular proling for integrated host–pathogen analysis"
 doi: ""
 type: literature-note
 created: 2026-06-10

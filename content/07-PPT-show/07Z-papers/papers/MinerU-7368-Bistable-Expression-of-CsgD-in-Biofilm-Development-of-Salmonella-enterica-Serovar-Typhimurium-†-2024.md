@@ -1,5 +1,5 @@
 ---
-title: "Bistable Expression of CsgD in Biofilm Development of Salmonella enterica Serovar Typhimurium "
+title: "Bistable Expression of CsgD in Biofilm Development of Salmonella enterica Serovar Typhimurium "
 doi: ""
 type: literature-note
 created: 2026-06-09
